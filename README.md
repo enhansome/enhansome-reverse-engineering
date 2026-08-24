@@ -12,14 +12,14 @@
   * 网络攻击: 中间人/PortKnocking/...
   * 网络分析: 嗅探/协议分析/网络可视化/网络分析/网络诊断等
 * [取证相关工具和文章: awesome-forensics](https://github.com/alphaSeclab/awesome-forensics) ⭐ 669 | 🐛 2 | 📅 2019-12-31: 近300个取开源证工具，近600与取证相关文章
-* [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) ⭐ 619 | 🐛 3 | 📅 2020-05-25: 超过18K, 包括Markdown和Json两种格式
+* [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) ⭐ 619 | 🐛 4 | 📅 2020-05-25: 超过18K, 包括Markdown和Json两种格式
 * [攻击性网络安全资源: awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) ⭐ 500 | 🐛 1 | 📅 2019-12-23: 漏洞/渗透/物联网安全/数据渗透/Metasploit/BurpSuite/KaliLinux/C\&C/OWASP/免杀/CobaltStrike/侦查/OSINT/社工/密码/凭证/威胁狩猎/Payload/WifiHacking/无线攻击/后渗透/提权/UAC绕过/...
 * [Webshell工具和分析/使用文章: awesome-webshell](https://github.com/alphaSeclab/awesome-webshell) ⭐ 184 | 🐛 0 | 📅 2019-12-30: Webshell资源收集, 包括150个Github项目, 200个左右文章
 
 # ReverseEngineering
 
-* 跟逆向有关的资源收集。当前包括的工具个数3500+，并根据功能进行了粗糙的分类。部分工具添加了中文描述。当前包括文章数2300+。
 * 此页只包含部分内容. [查看完整版](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full.md) ⭐ 5,034 | 🐛 7 | 📅 2021-09-01
+* 跟逆向有关的资源收集。当前包括的工具个数3500+，并根据功能进行了粗糙的分类。部分工具添加了中文描述。当前包括文章数2300+。
 
 # 说明
 
@@ -438,7 +438,7 @@
 ### <a id="a7dac37cd93b8bb42c7d6aedccb751b3"></a>收集
 
 * \[**1771**星]\[10d] [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) ⭐ 3,831 | 🐛 8 | 📅 2024-05-31 IDA插件收集
-* \[**363**星]\[9m] [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,585 | 🐛 2 | 📅 2026-02-20 IDA x64DBG OllyDBG 插件收集
+* \[**363**星]\[9m] [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,586 | 🐛 2 | 📅 2026-02-20 IDA x64DBG OllyDBG 插件收集
   * 重复区段: [x64dbg->插件->新添加的](#da5688c7823802e734c39b539aa39df7) |
 
 ### <a id="fabf03b862a776bbd8bcc4574943a65a"></a>外观&&主题
@@ -447,9 +447,9 @@
 
 ### <a id="a8f5db3ab4bc7bc3d6ca772b3b9b0b1e"></a>固件&&嵌入式设备
 
-* \[**5228**星]\[2m] \[Py] [refirmlabs/binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,260 | 🐛 92 | 🌐 Rust | 📅 2026-08-11 固件分析工具（命令行+IDA插件）
-  * [IDA插件](https://github.com/ReFirmLabs/binwalk/tree/master/src/scripts) ⭐ 14,260 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
-  * [binwalk](https://github.com/ReFirmLabs/binwalk/tree/master/src/binwalk) ⭐ 14,260 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* \[**5228**星]\[2m] \[Py] [refirmlabs/binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,264 | 🐛 92 | 🌐 Rust | 📅 2026-08-11 固件分析工具（命令行+IDA插件）
+  * [IDA插件](https://github.com/ReFirmLabs/binwalk/tree/master/src/scripts) ⭐ 14,264 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+  * [binwalk](https://github.com/ReFirmLabs/binwalk/tree/master/src/binwalk) ⭐ 14,264 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
 * \[**492**星]\[5m] \[Py] [maddiestone/idapythonembeddedtoolkit](https://github.com/maddiestone/idapythonembeddedtoolkit) ⭐ 688 | 🐛 0 | 🌐 Python | 📅 2019-08-14 自动分析嵌入式设备的固件
 
 ### <a id="02088f4884be6c9effb0f1e9a3795e58"></a>签名(FLIRT等)&&比较(Diff)&&匹配
@@ -457,9 +457,9 @@
 #### <a id="cf04b98ea9da0056c055e2050da980c1"></a>未分类
 
 * \[**421**星]\[1m] \[C] [mcgill-dmas/kam1n0-community](https://github.com/McGill-DMaS/Kam1n0-Community) ⭐ 627 | 🐛 38 | 🌐 C | 📅 2023-03-02 汇编代码管理与分析平台(独立工具+IDA插件)
-  * 重复区段: [IDA->插件->作为辅助](#83de90385d03ac8ef27360bfcdc1ab48) |
   * [IDA插件](https://github.com/McGill-DMaS/Kam1n0-Community/tree/master2.x/kam1n0-clients/ida-plugin) ⭐ 627 | 🐛 38 | 🌐 C | 📅 2023-03-02
   * [kam1n0](https://github.com/McGill-DMaS/Kam1n0-Community/tree/master2.x/kam1n0) ⭐ 627 | 🐛 38 | 🌐 C | 📅 2023-03-02
+  * 重复区段: [IDA->插件->作为辅助](#83de90385d03ac8ef27360bfcdc1ab48) |
 
 #### <a id="19360afa4287236abe47166154bc1ece"></a>FLIRT签名
 
@@ -472,13 +472,13 @@
 
 #### <a id="161e5a3437461dc8959cc923e6a18ef7"></a>Diff&\&Match工具
 
-* \[**1554**星]\[13d] \[Py] [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) ⭐ 4,372 | 🐛 35 | 🌐 Python | 📅 2026-08-18 program diffing
+* \[**1554**星]\[13d] \[Py] [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) ⭐ 4,372 | 🐛 36 | 🌐 Python | 📅 2026-08-18 program diffing
 * \[**360**星]\[1m] \[Py] [checkpointsw/karta](https://github.com/checkpointsw/karta) ⭐ 907 | 🐛 10 | 🌐 Python | 📅 2026-03-31 source code assisted fast binary matching plugin for IDA
 * \[**332**星]\[1y] \[Py] [joxeankoret/pigaios](https://github.com/joxeankoret/pigaios) ⭐ 650 | 🐛 14 | 🌐 Python | 📅 2023-01-09 A tool for matching and diffing source codes directly against binaries.
 
 #### <a id="46c9dfc585ae59fe5e6f7ddf542fb31a"></a>Yara
 
-* \[**449**星]\[2m] \[Py] [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) ⭐ 1,734 | 🐛 10 | 🌐 Python | 📅 2024-11-19 使用Yara规则查找加密常量
+* \[**449**星]\[2m] \[Py] [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) ⭐ 1,735 | 🐛 10 | 🌐 Python | 📅 2024-11-19 使用Yara规则查找加密常量
   * 重复区段: [IDA->插件->加密解密](#06d2caabef97cf663bd29af2b1fe270c) |
 
 ### <a id="5e91b280aab7f242cbc37d64ddbff82f"></a>IDB操作
@@ -606,10 +606,10 @@
 #### <a id="0fbd352f703b507853c610a664f024d1"></a>DBI数据
 
 * \[**943**星]\[1y] \[Py] [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 从DBI中收集代码覆盖情况，在IDA/Binja中映射、浏览、查看
-  * 重复区段: [DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
   * [coverage-frida](https://github.com/gaasedelen/lighthouse/blob/master/coverage/frida/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Frida收集信息
   * [coverage-pin](https://github.com/gaasedelen/lighthouse/blob/master/coverage/pin/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Pin收集覆盖信息
   * [插件](https://github.com/gaasedelen/lighthouse/blob/master/plugin/lighthouse_plugin.py) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 支持IDA和BinNinja
+  * 重复区段: [DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
 
 #### <a id="b31acf6c84a9506066d497af4e702bf5"></a>调试数据
 
@@ -653,9 +653,9 @@
 
 ### <a id="7199e8787c0de5b428f50263f965fda7"></a>反混淆
 
-* \[**1365**星]\[3m] \[Py] [fireeye/flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21 自动从恶意代码中提取反混淆后的字符串
-  * [floss](https://github.com/fireeye/flare-floss/tree/master/floss) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21
-  * [IDA插件](https://github.com/fireeye/flare-floss/blob/master/scripts/idaplugin.py) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21
+* \[**1365**星]\[3m] \[Py] [fireeye/flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24 自动从恶意代码中提取反混淆后的字符串
+  * [floss](https://github.com/fireeye/flare-floss/tree/master/floss) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24
+  * [IDA插件](https://github.com/fireeye/flare-floss/blob/master/scripts/idaplugin.py) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24
   * 重复区段: [IDA->插件->字符串](#9dcc6c7dd980bec1f92d0cc9a2209a24) |
 * \[**304**星]\[4m] \[C++] [rolfrolles/hexraysdeob](https://github.com/rolfrolles/hexraysdeob) ⭐ 805 | 🐛 1 | 🌐 C++ | 📅 2021-02-22 利用Hex-Rays microcode API破解编译器级别的混淆
   * 重复区段: [IDA->插件->Microcode](#7a2977533ccdac70ee6e58a7853b756b) |
@@ -788,9 +788,9 @@
 
 ### <a id="9dcc6c7dd980bec1f92d0cc9a2209a24"></a>字符串
 
-* \[**1365**星]\[3m] \[Py] [fireeye/flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21 自动从恶意代码中提取反混淆后的字符串
-  * [floss](https://github.com/fireeye/flare-floss/tree/master/floss) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21
-  * [IDA插件](https://github.com/fireeye/flare-floss/blob/master/scripts/idaplugin.py) ⭐ 4,131 | 🐛 120 | 🌐 Python | 📅 2026-08-21
+* \[**1365**星]\[3m] \[Py] [fireeye/flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24 自动从恶意代码中提取反混淆后的字符串
+  * [floss](https://github.com/fireeye/flare-floss/tree/master/floss) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24
+  * [IDA插件](https://github.com/fireeye/flare-floss/blob/master/scripts/idaplugin.py) ⭐ 4,132 | 🐛 119 | 🌐 Python | 📅 2026-08-24
   * 重复区段: [IDA->插件->反混淆](#7199e8787c0de5b428f50263f965fda7) |
 * \[**372**星]\[3m] \[Py] [l4ys/lazyida](https://github.com/l4ys/lazyida) ⭐ 1,438 | 🐛 1 | 🌐 Python | 📅 2026-01-31 若干快速访问功能, 扫描字符串格式化漏洞
   * 重复区段: [IDA->插件->效率->其他](#c5b120e1779b928d860ad64ff8d23264) |[IDA->插件->漏洞->未分类](#385d6777d0747e79cccab0a19fa90e7e) |
@@ -810,7 +810,7 @@
 
 ### <a id="06d2caabef97cf663bd29af2b1fe270c"></a>加密解密
 
-* \[**449**星]\[2m] \[Py] [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) ⭐ 1,734 | 🐛 10 | 🌐 Python | 📅 2024-11-19 使用Yara规则查找加密常量
+* \[**449**星]\[2m] \[Py] [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) ⭐ 1,735 | 🐛 10 | 🌐 Python | 📅 2024-11-19 使用Yara规则查找加密常量
   * 重复区段: [IDA->插件->签名(FLIRT等)->Yara](#46c9dfc585ae59fe5e6f7ddf542fb31a) |
 
 ***
@@ -1046,7 +1046,7 @@
 
 ### <a id="2ae406afda6602c8f02d73678b2ff040"></a>Ghidra
 
-* \[**18649**星]\[10d] \[Java] [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra) ⭐ 72,715 | 🐛 1,922 | 🌐 Java | 📅 2026-08-20 软件逆向框架
+* \[**18649**星]\[10d] \[Java] [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra) ⭐ 72,739 | 🐛 1,919 | 🌐 Java | 📅 2026-08-24 软件逆向框架
 
 ### <a id="ce70b8d45be0a3d29705763564623aca"></a>新添加的
 
@@ -1194,7 +1194,7 @@
 
 ### <a id="353ea40f2346191ecb828210a685f9db"></a>x64dbg
 
-* \[**34576**星]\[1m] \[C++] [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 49,253 | 🐛 573 | 🌐 C++ | 📅 2026-08-23 Windows平台x32/x64调试器
+* \[**34576**星]\[1m] \[C++] [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 49,264 | 🐛 573 | 🌐 C++ | 📅 2026-08-23 Windows平台x32/x64调试器
 
 ### <a id="da5688c7823802e734c39b539aa39df7"></a>新添加的
 
@@ -1214,7 +1214,7 @@
   * [nocode](https://github.com/yegord/snowman/tree/master/src/nocode) ⚠️ Archived 命令行工具
   * [nc](https://github.com/yegord/snowman/tree/master/src/nc) ⚠️ Archived 核心代码，可作为库使用
   * 重复区段: [IDA->插件->反编译器](#d2166f4dac4eab7fadfe0fd06467fbc9) |
-* \[**363**星]\[9m] [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,585 | 🐛 2 | 📅 2026-02-20 IDA x64DBG OllyDBG 插件收集
+* \[**363**星]\[9m] [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,586 | 🐛 2 | 📅 2026-02-20 IDA x64DBG OllyDBG 插件收集
   * 重复区段: [IDA->插件->收集](#a7dac37cd93b8bb42c7d6aedccb751b3) |
 * \[**1341**星]\[1m] \[C] [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) ⭐ 1,504 | 🐛 28 | 🌐 C | 📅 2023-04-05 Automating x64dbg using Python, Snapshots:
 * \[**972**星]\[2m] \[Py] [x64dbg/docs](https://github.com/x64dbg/docs) ⚠️ Archived x64dbg文档
@@ -1322,16 +1322,16 @@
 
 ### <a id="63fd2c592145914e99f837cecdc5a67c"></a>新添加的1
 
-* \[**5195**星]\[19d] \[Py] [mobsf/mobile-security-framework-mobsf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,625 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-* \[**5084**星]\[15d] \[HTML] [owasp/owasp-mstg](https://github.com/owasp/owasp-mstg) ⭐ 13,130 | 🐛 233 | 🌐 Python | 📅 2026-08-14 关于移动App安全开发、测试和逆向的相近手册
-* \[**4306**星]\[15d] \[Shell] [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,632 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 A collection of android security related resources
-* \[**2051**星]\[21d] \[Py] [sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,340 | 🐛 55 | 🌐 Python | 📅 2026-07-23 runtimemobile exploration
+* \[**5195**星]\[19d] \[Py] [mobsf/mobile-security-framework-mobsf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,631 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-21 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* \[**5084**星]\[15d] \[HTML] [owasp/owasp-mstg](https://github.com/owasp/owasp-mstg) ⭐ 13,131 | 🐛 233 | 🌐 Python | 📅 2026-08-14 关于移动App安全开发、测试和逆向的相近手册
+* \[**4306**星]\[15d] \[Shell] [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,638 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 A collection of android security related resources
+* \[**2051**星]\[21d] \[Py] [sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,341 | 🐛 55 | 🌐 Python | 📅 2026-07-23 runtimemobile exploration
 * \[**3649**星]\[2m] \[C++] [anbox/anbox](https://github.com/anbox/anbox) ⚠️ Archived 在常规GNU / Linux系统上引导完整的Android系统，基于容器
 * \[**6101**星]\[3m] \[Java] [google/android-classyshark](https://github.com/google/android-classyshark) ⚠️ Archived 分析基于Android/Java的App或游戏
 * \[**6094**星]\[5m] \[Java] [qihoo360/replugin](https://github.com/qihoo360/replugin) ⭐ 7,338 | 🐛 348 | 🌐 Java | 📅 2025-09-16 RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
-* \[**820**星]\[11d] [proxymanapp/proxyman](https://github.com/proxymanapp/proxyman) ⭐ 6,948 | 🐛 1,871 | 📅 2026-08-12 Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android
-* \[**4882**星]\[24d] \[Java] [guardianproject/haven](https://github.com/guardianproject/haven) ⭐ 6,812 | 🐛 149 | 🌐 Java | 📅 2022-10-26 通过Android应用和设备上的传感器保护自己的个人空间和财产而又不损害
-* \[**4776**星]\[12d] \[C++] [facebook/redex](https://github.com/facebook/redex) ⭐ 6,299 | 🐛 73 | 🌐 C++ | 📅 2026-08-22 Android App字节码优化器
+* \[**820**星]\[11d] [proxymanapp/proxyman](https://github.com/proxymanapp/proxyman) ⭐ 6,947 | 🐛 1,874 | 📅 2026-08-24 Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android
+* \[**4882**星]\[24d] \[Java] [guardianproject/haven](https://github.com/guardianproject/haven) ⭐ 6,813 | 🐛 149 | 🌐 Java | 📅 2022-10-26 通过Android应用和设备上的传感器保护自己的个人空间和财产而又不损害
+* \[**4776**星]\[12d] \[C++] [facebook/redex](https://github.com/facebook/redex) ⭐ 6,299 | 🐛 73 | 🌐 C++ | 📅 2026-08-24 Android App字节码优化器
 * \[**1925**星]\[7m] \[Java] [fuzion24/justtrustme](https://github.com/fuzion24/justtrustme) ⭐ 5,359 | 🐛 22 | 🌐 Java | 📅 2024-09-02 An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
 * \[**443**星]\[1m] \[TS] [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,088 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24
 * \[**2011**星]\[8m] \[Py] [fsecurelabs/drozer](https://github.com/FSecureLABS/drozer) ⭐ 4,594 | 🐛 9 | 🌐 Python | 📅 2026-04-08 The Leading Security Assessment Framework for Android.
@@ -1347,7 +1347,7 @@
 * \[**885**星]\[2m] \[C] [504ensicslabs/lime](https://github.com/504ensicslabs/lime) ⭐ 2,028 | 🐛 35 | 🌐 C | 📅 2026-04-05 LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures f…
 * \[**518**星]\[4m] \[Java] [megatronking/stringfog](https://github.com/megatronking/stringfog) ⭐ 2,014 | 🐛 44 | 🌐 Java | 📅 2024-07-09 一款自动对字节码中的字符串进行加密Android插件工具
 * \[**358**星]\[5m] [b3nac/android-reports-and-resources](https://github.com/b3nac/android-reports-and-resources) ⭐ 1,706 | 🐛 0 | 📅 2025-09-10 A big list of Android Hackerone disclosed reports and other resources.
-* \[**546**星]\[2m] [nordicsemiconductor/android-nrf-connect](https://github.com/nordicsemiconductor/android-nrf-connect) ⭐ 1,682 | 🐛 57 | 📅 2025-08-28 Documentation and issue tracker for nRF Connect for Android.
+* \[**546**星]\[2m] [nordicsemiconductor/android-nrf-connect](https://github.com/nordicsemiconductor/android-nrf-connect) ⭐ 1,683 | 🐛 57 | 📅 2025-08-28 Documentation and issue tracker for nRF Connect for Android.
 * \[**1134**星]\[1m] \[Java] [huangyz0918/androidwm](https://github.com/huangyz0918/androidwm) ⭐ 1,629 | 🐛 41 | 🌐 Java | 📅 2024-05-10 一个支持不可见数字水印（隐写术）的android图像水印库。
 * \[**1430**星]\[11m] \[Java] [aslody/legend](https://github.com/aslody/legend) ⭐ 1,605 | 🐛 31 | 🌐 Java | 📅 2022-07-23 (Android)无需Root即可Hook Java方法的框架, 支持Dalvik和Art环境
 * \[**409**星]\[3m] \[CSS] [angea/pocorgtfo](https://github.com/angea/pocorgtfo) ⭐ 1,603 | 🐛 1 | 🌐 TeX | 📅 2024-02-11 a "Proof of Concept or GTFO" mirror with extra article index, direct links and clean PDFs.
@@ -1358,7 +1358,7 @@
 * \[**1241**星]\[3m] \[Java] [whataa/pandora](https://github.com/whataa/pandora) ⭐ 1,494 | 🐛 13 | 🌐 Java | 📅 2023-11-01 an android library for debugging what we care about directly in app.
 * \[**511**星]\[9d] \[Java] [happylishang/cacheemulatorchecker](https://github.com/happylishang/cacheemulatorchecker) ⭐ 1,491 | 🐛 36 | 🌐 Java | 📅 2023-12-13 Android模拟器检测，检测Android模拟器 ，获取相对真实的IMEI AndroidId 序列号 MAC地址等，作为DeviceID，应对防刷需求等
 * \[**769**星]\[1y] \[C] [ele7enxxh/android-inline-hook](https://github.com/ele7enxxh/android-inline-hook) ⭐ 1,400 | 🐛 15 | 🌐 C | 📅 2020-06-23 thumb16 thumb32 arm32 inlineHook in Android
-* \[**379**星]\[6m] \[Makefile] [crifan/android\_app\_security\_crack](https://github.com/crifan/android_app_security_crack) ⭐ 1,312 | 🐛 4 | 🌐 Makefile | 📅 2024-10-07 安卓应用的安全和破解
+* \[**379**星]\[6m] \[Makefile] [crifan/android\_app\_security\_crack](https://github.com/crifan/android_app_security_crack) ⭐ 1,313 | 🐛 4 | 🌐 Makefile | 📅 2024-10-07 安卓应用的安全和破解
 * \[**267**星]\[4m] \[Py] [amimo/dcc](https://github.com/amimo/dcc) ⭐ 1,295 | 🐛 26 | 🌐 Python | 📅 2024-02-07 DCC (Dex-to-C Compiler) is method-based aot compiler that can translate DEX code to C code.
 * \[**800**星]\[3m] [sh4hin/androl4b](https://github.com/sh4hin/androl4b) ⭐ 1,166 | 🐛 5 | 📅 2023-05-31 用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
 * \[**668**星]\[2m] [doridori/android-security-reference](https://github.com/doridori/android-security-reference) ⭐ 993 | 🐛 5 | 📅 2025-03-24 A W\.I.P Android Security Ref
@@ -1368,7 +1368,7 @@
 * \[**284**星]\[9m] \[Py] [micropyramid/forex-python](https://github.com/micropyramid/forex-python) ⭐ 710 | 🐛 23 | 🌐 Python | 📅 2025-05-22 Foreign exchange rates, Bitcoin price index and currency conversion using ratesapi.io
 * \[**541**星]\[1y] \[Java] [jaredrummler/apkparser](https://github.com/jaredrummler/apkparser) ⭐ 671 | 🐛 14 | 🌐 Java | 📅 2024-06-24 APK parser for Android
 * \[**333**星]\[25d] \[Java] [datatheorem/trustkit-android](https://github.com/datatheorem/trustkit-android) ⭐ 603 | 🐛 22 | 🌐 Java | 📅 2026-08-20 Easy SSL pinning validation and reporting for Android.
-* \[**450**星]\[12m] \[Kotlin] [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) ⭐ 576 | 🐛 8 | 🌐 Shell | 📅 2023-02-18 kcptun for Android.
+* \[**450**星]\[12m] \[Kotlin] [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) ⭐ 577 | 🐛 8 | 🌐 Shell | 📅 2023-02-18 kcptun for Android.
 * \[**379**星]\[1y] \[CSS] [nowsecure/secure-mobile-development](https://github.com/nowsecure/secure-mobile-development) ⚠️ Archived A Collection of Secure Mobile Development Best Practices
 * \[**408**星]\[1y] \[Java] [testwhat/smaliex](https://github.com/testwhat/smaliex) ⭐ 552 | 🐛 27 | 🌐 Java | 📅 2025-04-27 A wrapper to get de-optimized dex from odex/oat/vdex.
 * \[**1213**星]\[2m] \[JS] [megatronking/httpcanary](https://github.com/megatronking/httpcanary) ⭐ 497 | 🐛 5 | 📅 2024-07-03 A powerful capture and injection tool for the Android platform
@@ -1396,7 +1396,7 @@
 
 ### <a id="17408290519e1ca7745233afea62c43c"></a>各类App
 
-* \[**12285**星]\[11d] \[Java] [signalapp/signal-android](https://github.com/signalapp/Signal-Android) ⭐ 29,244 | 🐛 482 | 🌐 Kotlin | 📅 2026-08-21 A private messenger for Android.
+* \[**12285**星]\[11d] \[Java] [signalapp/signal-android](https://github.com/signalapp/Signal-Android) ⭐ 29,249 | 🐛 482 | 🌐 Kotlin | 📅 2026-08-21 A private messenger for Android.
 
 ### <a id="7f353b27e45b5de6b0e6ac472b02cbf1"></a>Xposed
 
@@ -1434,7 +1434,7 @@
 ### <a id="5afa336e229e4c38ad378644c484734a"></a>Emulator&&模拟器
 
 * \[**532**星]\[7m] \[Java] [limboemu/limbo](https://github.com/limboemu/limbo) ⭐ 3,398 | 🐛 54 | 🌐 Java | 📅 2024-08-18 Limbo is a QEMU-based emulator for Android. It currently supports PC & ARM emulation for Intel x86 and ARM architecture. See our wiki
-* \[**1492**星]\[1y] \[C++] [f1xpl/openauto](https://github.com/f1xpl/openauto) ⭐ 2,911 | 🐛 37 | 🌐 C++ | 📅 2024-12-12 AndroidAuto headunit emulator
+* \[**1492**星]\[1y] \[C++] [f1xpl/openauto](https://github.com/f1xpl/openauto) ⭐ 2,912 | 🐛 37 | 🌐 C++ | 📅 2024-12-12 AndroidAuto headunit emulator
 * \[**471**星]\[3m] \[Java] [strazzere/anti-emulator](https://github.com/strazzere/anti-emulator) ⭐ 837 | 🐛 4 | 🌐 Java | 📅 2021-01-22 Android Anti-Emulator
 
 ### <a id="0a668d220ce74e11ed2738c4e3ae3c9e"></a>IDA
@@ -1442,7 +1442,7 @@
 ### <a id="bb9f8e636857320abf0502c19af6c763"></a>Debug&&调试
 
 * \[**10794**星]\[1m] \[Java] [konloch/bytecode-viewer](https://github.com/konloch/bytecode-viewer) ⭐ 15,614 | 🐛 103 | 🌐 Java | 📅 2026-07-17 A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
-* \[**6762**星]\[10m] \[Java] [amitshekhariitbhu/android-debug-database](https://github.com/amitshekhariitbhu/android-debug-database) ⭐ 8,677 | 🐛 83 | 🌐 Java | 📅 2026-02-05 A library for debugging android databases and shared preferences - Make Debugging Great Again
+* \[**6762**星]\[10m] \[Java] [amitshekhariitbhu/android-debug-database](https://github.com/amitshekhariitbhu/android-debug-database) ⭐ 8,678 | 🐛 83 | 🌐 Java | 📅 2026-02-05 A library for debugging android databases and shared preferences - Make Debugging Great Again
 
 ### <a id="f975a85510f714ec3cc2551e868e75b8"></a>Malware&&恶意代码
 
@@ -1456,7 +1456,7 @@
 
 ### <a id="6d2b758b3269bac7d69a2d2c8b45194c"></a>ReverseEngineering
 
-* \[**9285**星]\[1m] \[Java] [ibotpeaches/apktool](https://github.com/ibotpeaches/apktool) ⭐ 25,354 | 🐛 81 | 🌐 Java | 📅 2026-08-24 A tool for reverse engineering Android apk files
+* \[**9285**星]\[1m] \[Java] [ibotpeaches/apktool](https://github.com/ibotpeaches/apktool) ⭐ 25,360 | 🐛 82 | 🌐 Java | 📅 2026-08-24 A tool for reverse engineering Android apk files
 * \[**2053**星]\[1m] \[Java] [genymobile/gnirehtet](https://github.com/genymobile/gnirehtet) ⭐ 7,851 | 🐛 324 | 🌐 Java | 📅 2024-08-11 Gnirehtet provides reverse tethering for Android
 * \[**545**星]\[20d] [maddiestone/androidappre](https://github.com/maddiestone/androidappre) ⭐ 1,556 | 🐛 5 | 📅 2024-04-10 Android App Reverse Engineering Workshop
 * \[**585**星]\[3m] \[C++] [secrary/andromeda](https://github.com/secrary/andromeda) ⭐ 714 | 🐛 0 | 🌐 C++ | 📅 2020-03-14 Andromeda - Interactive Reverse Engineering Tool for Android Applications \[This project is not maintained anymore]
@@ -1479,7 +1479,7 @@
 
 ### <a id="9b0f5682dc818c93c4de3f46fc3f43d0"></a>工具
 
-* \[**2140**星]\[2m] \[Py] [jonathansalwan/ropgadget](https://github.com/jonathansalwan/ropgadget) ⭐ 4,467 | 🐛 15 | 🌐 Python | 📅 2026-06-24 This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
+* \[**2140**星]\[2m] \[Py] [jonathansalwan/ropgadget](https://github.com/jonathansalwan/ropgadget) ⭐ 4,468 | 🐛 15 | 🌐 Python | 📅 2026-06-24 This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 * \[**2540**星]\[10m] \[ObjC] [nygard/class-dump](https://github.com/nygard/class-dump) ⭐ 3,585 | 🐛 41 | 🌐 Objective-C | 📅 2022-04-06 Generate Objective-C headers from Mach-O files.
 * \[**399**星]\[2m] \[Logos] [limneos/classdump-dyld](https://github.com/limneos/classdump-dyld) ⭐ 621 | 🐛 14 | 🌐 Logos | 📅 2022-01-14 Class-dump any Mach-o file without extracting it from dyld\_shared\_cache
 * \[**265**星]\[8m] \[ObjC] [devaukz/macho-kit](https://github.com/devaukz/macho-kit) ⭐ 561 | 🐛 10 | 🌐 Objective-C | 📅 2022-08-10 A C/Objective-C library for parsing Mach-O files.
@@ -1514,10 +1514,10 @@
 ### <a id="ff19d5d94315d035bbcb3ef0c348c75b"></a>工具
 
 * \[**5451**星]\[3m] \[Py] [axi0mx/ipwndfu](https://github.com/axi0mx/ipwndfu) ⭐ 7,396 | 🐛 168 | 🌐 Python | 📅 2024-02-21 open-source jailbreaking tool for many iOS devices
-* \[**4248**星]\[8m] \[ObjC] [alonemonkey/monkeydev](https://github.com/alonemonkey/monkeydev) ⭐ 6,798 | 🐛 186 | 🌐 Objective-C | 📅 2022-07-09 CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
+* \[**4248**星]\[8m] \[ObjC] [alonemonkey/monkeydev](https://github.com/alonemonkey/monkeydev) ⭐ 6,799 | 🐛 186 | 🌐 Objective-C | 📅 2022-07-09 CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * \[**5390**星]\[6m] \[C] [pwn20wndstuff/undecimus](https://github.com/pwn20wndstuff/undecimus) ⭐ 6,619 | 🐛 197 | 🌐 C | 📅 2021-08-01 unc0ver jailbreak for iOS 11.0 - 12.4
-* \[**3221**星]\[5m] \[ObjC] [naituw/ipapatch](https://github.com/naituw/ipapatch) ⭐ 5,274 | 🐛 42 | 🌐 Objective-C | 📅 2026-02-27 Patch iOS Apps, The Easy Way, Without Jailbreak.
-* \[**1193**星]\[15d] \[JS] [alonemonkey/frida-ios-dump](https://github.com/alonemonkey/frida-ios-dump) ⭐ 3,918 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 pull decrypted ipa from jailbreak device
+* \[**3221**星]\[5m] \[ObjC] [naituw/ipapatch](https://github.com/naituw/ipapatch) ⭐ 5,274 | 🐛 43 | 🌐 Objective-C | 📅 2026-02-27 Patch iOS Apps, The Easy Way, Without Jailbreak.
+* \[**1193**星]\[15d] \[JS] [alonemonkey/frida-ios-dump](https://github.com/alonemonkey/frida-ios-dump) ⭐ 3,919 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 pull decrypted ipa from jailbreak device
   * 重复区段: [DBI->Frida->工具->新添加的](#54836a155de0c15b56f43634cd9cfecf) |
 * \[**287**星]\[7m] \[Shell] [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) ⭐ 593 | 🐛 3 | 🌐 Shell | 📅 2020-02-19 Tools for Mikrotik devices -  universal jailbreak tool
 * \[**404**星]\[1y] \[C] [coalfire-research/ios-11.1.2-15b202-jailbreak](https://github.com/coalfire-research/ios-11.1.2-15b202-jailbreak) ⭐ 438 | 🐛 9 | 🌐 C | 📅 2021-04-06 iOS 11.1.2 (15B202) Jailbreak
@@ -1547,7 +1547,7 @@
 ### <a id="c20772abc204dfe23f3e946f8c73dfda"></a>工具
 
 * \[**8031**星]\[3m] \[Py] [facebook/chisel](https://github.com/facebook/chisel) ⭐ 9,177 | 🐛 50 | 🌐 Python | 📅 2026-03-15 Chisel is a collection of LLDB commands to assist debugging iOS apps.
-* \[**492**星]\[28d] \[Rust] [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) ⭐ 3,277 | 🐛 168 | 🌐 Rust | 📅 2026-08-23 A native debugger extension for VSCode based on LLDB
+* \[**492**星]\[28d] \[Rust] [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) ⭐ 3,278 | 🐛 168 | 🌐 Rust | 📅 2026-08-23 A native debugger extension for VSCode based on LLDB
 * \[**784**星]\[3m] \[C++] [nodejs/llnode](https://github.com/nodejs/llnode) ⭐ 1,168 | 🐛 69 | 🌐 C++ | 📅 2024-12-21 An lldb plugin for Node.js and V8, which enables inspection of JavaScript states for insights into Node.js processes and their core dumps.
 * \[**636**星]\[2m] \[C++] [apple/swift-lldb](https://github.com/apple/swift-lldb) ⚠️ Archived This is the version of LLDB that supports the Swift programming language & REPL.
 * \[**388**星]\[2m] \[C++] [llvm-mirror/lldb](https://github.com/llvm-mirror/lldb) ⚠️ Archived Mirror of official lldb git repository located at
@@ -1615,16 +1615,16 @@
 ### <a id="d0108e91e6863289f89084ff09df39d0"></a>新添加的
 
 * \[**10966**星]\[10d] \[ObjC] [flipboard/flex](https://github.com/flipboard/flex) ⭐ 14,628 | 🐛 49 | 🌐 Objective-C | 📅 2026-06-11 An in-app debugging and exploration tool for iOS
-* \[**4397**星]\[12d] \[Swift] [signalapp/signal-ios](https://github.com/signalapp/Signal-iOS) ⭐ 12,209 | 🐛 141 | 🌐 Swift | 📅 2026-08-20 A private messenger for iOS.
-* \[**1215**星]\[16d] \[YARA] [horsicq/detect-it-easy](https://github.com/horsicq/detect-it-easy) ⭐ 11,401 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-23 Program for determining types of files for Windows, Linux and MacOS.
+* \[**4397**星]\[12d] \[Swift] [signalapp/signal-ios](https://github.com/signalapp/Signal-iOS) ⭐ 12,210 | 🐛 141 | 🌐 Swift | 📅 2026-08-20 A private messenger for iOS.
+* \[**1215**星]\[16d] \[YARA] [horsicq/detect-it-easy](https://github.com/horsicq/detect-it-easy) ⭐ 11,403 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-23 Program for determining types of files for Windows, Linux and MacOS.
 * \[**2733**星]\[26d] \[ObjC] [dantheman827/ios-app-signer](https://github.com/dantheman827/ios-app-signer) ⭐ 6,314 | 🐛 123 | 🌐 Objective-C | 📅 2025-09-01 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-* \[**4663**星]\[1m] \[C] [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,198 | 🐛 19 | 🌐 C | 📅 2025-07-02 A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
+* \[**4663**星]\[1m] \[C] [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,199 | 🐛 19 | 🌐 C | 📅 2025-07-02 A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 * \[**5775**星]\[4m] \[ObjC] [square/ponydebugger](https://github.com/square/ponydebugger) ⭐ 5,853 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18 Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * \[**3686**星]\[4m] \[C] [facebook/fishhook](https://github.com/facebook/fishhook) ⭐ 5,424 | 🐛 39 | 🌐 C | 📅 2024-08-01 A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-* \[**2867**星]\[12d] \[ObjC] [facebook/idb](https://github.com/facebook/idb) ⭐ 5,291 | 🐛 182 | 🌐 Swift | 📅 2026-08-23 idb is a flexible command line interface for automating iOS simulators and devices
+* \[**2867**星]\[12d] \[ObjC] [facebook/idb](https://github.com/facebook/idb) ⭐ 5,294 | 🐛 182 | 🌐 Swift | 📅 2026-08-24 idb is a flexible command line interface for automating iOS simulators and devices
 * \[**2753**星]\[1m] \[Makefile] [theos/theos](https://github.com/theos/theos) ⭐ 4,910 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08 A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 * \[**3327**星]\[3m] \[Swift] [yagiz/bagel](https://github.com/yagiz/bagel) ⭐ 4,422 | 🐛 37 | 🌐 Swift | 📅 2024-08-20 a little native network debugging tool for iOS
-* \[**2708**星]\[2m] \[ObjC] [kjcracks/clutch](https://github.com/kjcracks/clutch) ⭐ 3,823 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 Fast iOS executable dumper
+* \[**2708**星]\[2m] \[ObjC] [kjcracks/clutch](https://github.com/kjcracks/clutch) ⭐ 3,824 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 Fast iOS executable dumper
 * \[**2795**星]\[24d] \[Swift] [kasketis/netfox](https://github.com/kasketis/netfox) ⭐ 3,757 | 🐛 47 | 🌐 Swift | 📅 2024-03-21 A lightweight, one line setup, iOS / OSX network debugging library!
 * \[**840**星]\[9d] \[JS] [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,479 | 🐛 18 | 🌐 JavaScript | 📅 2026-07-16 Various recipes for testing common scenarios with Cypress
 * \[**1442**星]\[28d] \[ObjC] [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) ⭐ 3,310 | 🐛 19 | 🌐 Objective-C | 📅 2023-07-09 Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps
@@ -1634,12 +1634,12 @@
 * \[**1801**星]\[1y] [aozhimin/ios-monitor-platform](https://github.com/aozhimin/ios-monitor-platform) ⭐ 2,622 | 🐛 23 | 📅 2018-10-13
 * \[**1683**星]\[2m] \[Swift] [pmusolino/wormholy](https://github.com/pmusolino/wormholy) ⭐ 2,612 | 🐛 11 | 🌐 Swift | 📅 2026-05-23 iOS network debugging, like a wizard 🧙‍♂️
 * \[**1642**星]\[7m] \[Objective-C++] [tencent/oomdetector](https://github.com/tencent/oomdetector) ⭐ 2,347 | 🐛 38 | 🌐 Objective-C++ | 📅 2023-02-21 OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
-* \[**462**星]\[15d] \[Java] [dsheirer/sdrtrunk](https://github.com/dsheirer/sdrtrunk) ⭐ 2,166 | 🐛 436 | 🌐 Java | 📅 2026-08-01 A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
+* \[**462**星]\[15d] \[Java] [dsheirer/sdrtrunk](https://github.com/dsheirer/sdrtrunk) ⭐ 2,167 | 🐛 437 | 🌐 Java | 📅 2026-08-01 A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
 * \[**1239**星]\[8d] \[C] [datatheorem/trustkit](https://github.com/datatheorem/trustkit) ⭐ 2,139 | 🐛 34 | 🌐 Objective-C | 📅 2026-08-12 Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 * \[**604**星]\[2m] [siguza/ios-resources](https://github.com/siguza/ios-resources) ⭐ 1,965 | 🐛 4 | 📅 2025-05-24 Useful resources for iOS hacking
 * \[**1695**星]\[6m] \[Py] [yelp/osxcollector](https://github.com/yelp/osxcollector) ⚠️ Archived A forensic evidence collection & analysis toolkit for OS X
 * \[**1299**星]\[6m] \[JS] [feross/spoof](https://github.com/feross/spoof) ⭐ 1,868 | 🐛 14 | 🌐 JavaScript | 📅 2020-11-05 Easily spoof your MAC address in macOS, Windows, & Linux!
-* \[**796**星]\[13d] \[Shell] [aqzt/kjyw](https://github.com/aqzt/kjyw) ⭐ 1,866 | 🐛 7 | 🌐 Shell | 📅 2025-07-01 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+* \[**796**星]\[13d] \[Shell] [aqzt/kjyw](https://github.com/aqzt/kjyw) ⭐ 1,867 | 🐛 7 | 🌐 Shell | 📅 2025-07-01 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
 * \[**1113**星]\[1y] \[ObjC] [neoneggplant/eggshell](https://github.com/neoneggplant/eggshell) ⭐ 1,769 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 iOS/macOS/Linux Remote Administration Tool
 * \[**1252**星]\[17d] [michalmalik/osx-re-101](https://github.com/michalmalik/osx-re-101) ⭐ 1,729 | 🐛 1 | 📅 2019-12-19 OSX/iOS逆向资源收集
 * \[**1253**星]\[2m] \[Vue] [chaitin/passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived iOSapp 黑盒评估工具。功能丰富，自带基于web的 GUI
@@ -1731,7 +1731,7 @@
 
 #### <a id="3a577a5b4730a1b5b3b325269509bb0a"></a>DynamoRIO
 
-* \[**1228**星]\[12d] \[C] [dynamorio/dynamorio](https://github.com/dynamorio/dynamorio) ⭐ 3,140 | 🐛 1,798 | 🌐 C | 📅 2026-08-22 Dynamic Instrumentation Tool Platform
+* \[**1228**星]\[12d] \[C] [dynamorio/dynamorio](https://github.com/dynamorio/dynamorio) ⭐ 3,142 | 🐛 1,798 | 🌐 C | 📅 2026-08-22 Dynamic Instrumentation Tool Platform
 * \[**1388**星]\[12d] \[C] [dynamorio/drmemory](https://github.com/dynamorio/drmemory) ⭐ 2,744 | 🐛 1,047 | 🌐 C | 📅 2025-12-13 Memory Debugger for Windows, Linux, Mac, and Android
 
 #### <a id="ff0abe26a37095f6575195950e0b7f94"></a>新添加的
@@ -1774,10 +1774,10 @@
 ##### <a id="e129288dfadc2ab0890667109f93a76d"></a>未分类
 
 * \[**943**星]\[1y] \[Py] [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 从DBI中收集代码覆盖情况，在IDA/Binja中映射、浏览、查看
-  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
   * [coverage-frida](https://github.com/gaasedelen/lighthouse/blob/master/coverage/frida/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Frida收集信息
   * [coverage-pin](https://github.com/gaasedelen/lighthouse/blob/master/coverage/pin/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Pin收集覆盖信息
   * [插件](https://github.com/gaasedelen/lighthouse/blob/master/plugin/lighthouse_plugin.py) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 支持IDA和BinNinja
+  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
 
 ### <a id="226190bea6ceb98ee5e2b939a6515fac"></a>文章&&视频
 
@@ -1789,11 +1789,11 @@
 
 #### <a id="6d3c24e43835420063f9ca50ba805f15"></a>Frida
 
-* \[**4516**星]\[13d] \[Makefile] [frida/frida](https://github.com/frida/frida) ⭐ 21,708 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-18 Clone this repo to build Frida
+* \[**4516**星]\[13d] \[Makefile] [frida/frida](https://github.com/frida/frida) ⭐ 21,717 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-18 Clone this repo to build Frida
 
 #### <a id="54836a155de0c15b56f43634cd9cfecf"></a>新添加的
 
-* \[**1193**星]\[15d] \[JS] [alonemonkey/frida-ios-dump](https://github.com/alonemonkey/frida-ios-dump) ⭐ 3,918 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 pull decrypted ipa from jailbreak device
+* \[**1193**星]\[15d] \[JS] [alonemonkey/frida-ios-dump](https://github.com/alonemonkey/frida-ios-dump) ⭐ 3,919 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 pull decrypted ipa from jailbreak device
   * 重复区段: [Apple->越狱->工具](#ff19d5d94315d035bbcb3ef0c348c75b) |
 * \[**513**星]\[1m] \[JS] [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,533 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 Hand-crafted Frida examples
 * \[**895**星]\[5m] \[JS] [dpnishant/appmon](https://github.com/dpnishant/appmon) ⚠️ Archived 用于监视和篡改本地macOS，iOS和android应用程序的系统API调用的自动化框架。基于Frida。
@@ -1802,7 +1802,7 @@
 * \[**559**星]\[1m] \[JS] [nccgroup/house](https://github.com/nccgroup/house) ⭐ 1,463 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 运行时手机 App 分析工具包, 带Web GUI
 * \[**645**星]\[16d] \[Py] [igio90/dwarf](https://github.com/igio90/dwarf) ⭐ 1,316 | 🐛 5 | 🌐 Python | 📅 2024-05-16 Full featured multi arch/os debugger built on top of PyQt5 and frida
 * \[**243**星]\[19d] \[JS] [frenchyeti/dexcalibur](https://github.com/frenchyeti/dexcalibur) ⭐ 1,168 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-11 Dynamic binary instrumentation tool designed for Android application and powered by Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.
-* \[**228**星]\[13d] \[C] [frida/frida-gum](https://github.com/frida/frida-gum) ⭐ 1,006 | 🐛 207 | 🌐 C | 📅 2026-08-22 Low-level code instrumentation library used by frida-core
+* \[**228**星]\[13d] \[C] [frida/frida-gum](https://github.com/frida/frida-gum) ⭐ 1,008 | 🐛 207 | 🌐 C | 📅 2026-08-22 Low-level code instrumentation library used by frida-core
 * \[**420**星]\[13d] \[C] [frida/frida-python](https://github.com/frida/frida-python) ⭐ 870 | 🐛 56 | 🌐 Python | 📅 2026-08-18 Frida Python bindings
 * \[**283**星]\[8m] \[Py] [nightbringer21/fridump](https://github.com/nightbringer21/fridump) ⭐ 858 | 🐛 27 | 🌐 Python | 📅 2024-08-07 A universal memory dumper using Frida
 * \[**321**星]\[1m] \[C] [frida/frida-core](https://github.com/frida/frida-core) ⭐ 766 | 🐛 147 | 🌐 Vala | 📅 2026-08-24 Frida core library intended for static linking into bindings
@@ -1817,18 +1817,18 @@
 ##### <a id="d628ec92c9eea0c4b016831e1f6852b3"></a>IDA
 
 * \[**943**星]\[1y] \[Py] [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 从DBI中收集代码覆盖情况，在IDA/Binja中映射、浏览、查看
-  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
   * [coverage-frida](https://github.com/gaasedelen/lighthouse/blob/master/coverage/frida/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Frida收集信息
   * [coverage-pin](https://github.com/gaasedelen/lighthouse/blob/master/coverage/pin/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Pin收集覆盖信息
   * [插件](https://github.com/gaasedelen/lighthouse/blob/master/plugin/lighthouse_plugin.py) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 支持IDA和BinNinja
+  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->BinaryNinja](#f9008a00e2bbc7535c88602aa79c8fd8) |
 
 ##### <a id="f9008a00e2bbc7535c88602aa79c8fd8"></a>BinaryNinja
 
 * \[**943**星]\[1y] \[Py] [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 从DBI中收集代码覆盖情况，在IDA/Binja中映射、浏览、查看
-  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |
   * [coverage-frida](https://github.com/gaasedelen/lighthouse/blob/master/coverage/frida/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Frida收集信息
   * [coverage-pin](https://github.com/gaasedelen/lighthouse/blob/master/coverage/pin/README.md) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 使用Pin收集覆盖信息
   * [插件](https://github.com/gaasedelen/lighthouse/blob/master/plugin/lighthouse_plugin.py) ⭐ 2,576 | 🐛 34 | 🌐 Python | 📅 2026-02-14 支持IDA和BinNinja
+  * 重复区段: [IDA->插件->调试->DBI数据](#0fbd352f703b507853c610a664f024d1) |[DBI->IntelPin->工具->与其他工具交互->未分类](#e129288dfadc2ab0890667109f93a76d) |[DBI->Frida->工具->与其他工具交互->IDA](#d628ec92c9eea0c4b016831e1f6852b3) |
 
 ##### <a id="ac053c4da818ca587d57711d2ff66278"></a>Radare2
 
@@ -1864,7 +1864,7 @@
 
 ### <a id="e72b766bcd3b868c438a372bc365221e"></a>工具
 
-* \[**578**星]\[1y] \[C++] [qbdi/qbdi](https://github.com/QBDI/QBDI) ⭐ 1,813 | 🐛 19 | 🌐 C++ | 📅 2026-08-21 A Dynamic Binary Instrumentation framework based on LLVM.
+* \[**578**星]\[1y] \[C++] [qbdi/qbdi](https://github.com/QBDI/QBDI) ⭐ 1,814 | 🐛 19 | 🌐 C++ | 📅 2026-08-21 A Dynamic Binary Instrumentation framework based on LLVM.
 
 ### <a id="2cf79f93baf02a24d95d227a0a3049d8"></a>文章&&视频
 
@@ -1895,117 +1895,117 @@
 
 ## <a id="1d9dec1320a5d774dc8e0e7604edfcd3"></a>工具-新添加的
 
-* \[**14349**星]\[2m] \[Py] [corentinj/real-time-voice-cloning](https://github.com/corentinj/real-time-voice-cloning) ⭐ 60,103 | 🐛 177 | 🌐 Python | 📅 2026-03-09 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-* \[**2687**星]\[11d] \[Go] [adguardteam/adguardhome](https://github.com/adguardteam/adguardhome) ⭐ 36,327 | 🐛 1,280 | 🌐 TypeScript | 📅 2026-08-21 Network-wide ads & trackers blocking DNS server
-* \[**10378**星]\[11d] \[Go] [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,214 | 🐛 849 | 🌐 Go | 📅 2026-08-22 An open source trusted cloud native registry project that stores, signs, and scans content.
-* \[**19766**星]\[3m] \[Jupyter Notebook] [camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers](https://github.com/camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers) ⭐ 28,168 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
-* \[**5420**星]\[12d] \[Py] [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 27,634 | 🐛 2,077 | 🌐 Python | 📅 2026-08-24 Open source platform for the machine learning lifecycle
-* \[**11402**星]\[10d] \[Java] [oracle/graal](https://github.com/oracle/graal) ⭐ 21,669 | 🐛 850 | 🌐 Java | 📅 2026-08-22 Run Programs Faster Anywhere
-* \[**7020**星]\[14d] \[Go] [nats-io/nats-server](https://github.com/nats-io/nats-server) ⭐ 20,572 | 🐛 545 | 🌐 Go | 📅 2026-08-22 High-Performance server for NATS, the cloud native messaging system.
-* \[**5753**星]\[18d] \[Go] [casbin/casbin](https://github.com/casbin/casbin) ⭐ 20,338 | 🐛 38 | 🌐 Go | 📅 2026-08-21 An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-* \[**3608**星]\[9d] \[Pascal] [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) ⭐ 19,034 | 🐛 1,308 | 🌐 Pascal | 📅 2025-04-19 Cheat Engine. A development environment focused on modding
-* \[**4610**星]\[1y] \[C] [upx/upx](https://github.com/upx/upx) ⭐ 17,805 | 🐛 26 | 🌐 C++ | 📅 2026-08-23 UPX - the Ultimate Packer for eXecutables
-* \[**5226**星]\[13d] \[Shell] [denisidoro/navi](https://github.com/denisidoro/navi) ⭐ 17,472 | 🐛 113 | 🌐 Rust | 📅 2026-07-28 An interactive cheatsheet tool for the command-line
-* \[**11213**星]\[2m] \[Jupyter Notebook] [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 16,691 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20 One has no future if one couldn't teach themself.
-* \[**2815**星]\[20d] \[C] [processhacker/processhacker](https://github.com/processhacker/processhacker) ⭐ 15,679 | 🐛 290 | 🌐 C | 📅 2026-08-21 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
-* \[**3295**星]\[15d] \[JS] [koenkk/zigbee2mqtt](https://github.com/koenkk/zigbee2mqtt) ⭐ 15,531 | 🐛 448 | 🌐 TypeScript | 📅 2026-08-22 Zigbee
-* \[**6894**星]\[2m] \[Go] [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,789 | 🐛 62 | 🌐 Go | 📅 2024-02-22 A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-* \[**7748**星]\[10d] \[Go] [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ⭐ 14,436 | 🐛 483 | 🌐 Go | 📅 2026-08-19 Git extension for versioning large files
-* \[**5116**星]\[11d] \[ASP] [hq450/fancyss](https://github.com/hq450/fancyss) ⭐ 13,709 | 🐛 213 | 🌐 Shell | 📅 2026-06-01 fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-* \[**3129**星]\[13d] \[C] [qemu/qemu](https://github.com/qemu/qemu) ⭐ 13,610 | 🐛 0 | 🌐 C | 📅 2026-08-23 Official QEMU mirror. Please see
-* \[**5229**星]\[4m] \[Py] [ytisf/thezoo](https://github.com/ytisf/thezoo) ⭐ 13,318 | 🐛 89 | 🌐 Python | 📅 2026-07-24 A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-* \[**2344**星]\[16d] \[C] [tsl0922/ttyd](https://github.com/tsl0922/ttyd) ⭐ 12,249 | 🐛 113 | 🌐 C | 📅 2026-08-12 Share your terminal over the web
-* \[**3980**星]\[1m] \[Rust] [svenstaro/genact](https://github.com/svenstaro/genact) ⭐ 12,176 | 🐛 16 | 🌐 Rust | 📅 2026-08-01 a nonsense activity generator
-* \[**3505**星]\[16d] \[C] [cyan4973/xxhash](https://github.com/cyan4973/xxhash) ⭐ 11,217 | 🐛 42 | 🌐 C | 📅 2026-07-27 Extremely fast non-cryptographic hash algorithm
-* \[**4003**星]\[11d] \[Go] [dexidp/dex](https://github.com/dexidp/dex) ⭐ 11,054 | 🐛 525 | 🌐 Go | 📅 2026-08-20 OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-* \[**2993**星]\[18d] \[Py] [quantaxis/quantaxis](https://github.com/quantaxis/quantaxis) ⭐ 11,036 | 🐛 239 | 🌐 Python | 📅 2026-02-28 支持任务调度 分布式部署的 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案
-* \[**3908**星]\[12d] \[C++] [baldurk/renderdoc](https://github.com/baldurk/renderdoc) ⭐ 11,006 | 🐛 49 | 🌐 C++ | 📅 2026-08-20 RenderDoc is a stand-alone graphics debugging tool.
-* \[**2053**星]\[24d] \[C#] [mathewsachin/captura](https://github.com/mathewsachin/captura) ⭐ 10,794 | 🐛 116 | 🌐 C# | 📅 2026-05-25 Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-* \[**2627**星]\[23d] \[JS] [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) ⭐ 10,645 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-23 Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-* \[**4597**星]\[12d] \[C++] [mozilla/rr](https://github.com/mozilla/rr) ⭐ 10,629 | 🐛 480 | 🌐 C++ | 📅 2026-08-16 记录与重放App的调试执行过程
-* \[**5751**星]\[9m] \[C] [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,486 | 🐛 25 | 🌐 C | 📅 2024-05-29 C编译器，编译的二进制文件只有1个代码块。
-* \[**2718**星]\[3m] \[Py] [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) ⭐ 10,017 | 🐛 34 | 🌐 Python | 📅 2026-08-07 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-* \[**4857**星]\[13d] \[Go] [gcla/termshark](https://github.com/gcla/termshark) ⭐ 9,960 | 🐛 50 | 🌐 Go | 📅 2024-04-30 A terminal UI for tshark, inspired by Wireshark
-* \[**3289**星]\[15d] \[C] [virustotal/yara](https://github.com/virustotal/yara) ⭐ 9,819 | 🐛 171 | 🌐 C | 📅 2026-08-21 The pattern matching swiss knife
-* \[**5876**星]\[3m] \[Gnuplot] [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,600 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+* \[**14349**星]\[2m] \[Py] [corentinj/real-time-voice-cloning](https://github.com/corentinj/real-time-voice-cloning) ⭐ 60,108 | 🐛 177 | 🌐 Python | 📅 2026-03-09 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+* \[**2687**星]\[11d] \[Go] [adguardteam/adguardhome](https://github.com/adguardteam/adguardhome) ⭐ 36,335 | 🐛 1,280 | 🌐 TypeScript | 📅 2026-08-21 Network-wide ads & trackers blocking DNS server
+* \[**10378**星]\[11d] \[Go] [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,218 | 🐛 852 | 🌐 Go | 📅 2026-08-24 An open source trusted cloud native registry project that stores, signs, and scans content.
+* \[**19766**星]\[3m] \[Jupyter Notebook] [camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers](https://github.com/camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers) ⭐ 28,170 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+* \[**5420**星]\[12d] \[Py] [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 27,649 | 🐛 2,078 | 🌐 Python | 📅 2026-08-24 Open source platform for the machine learning lifecycle
+* \[**11402**星]\[10d] \[Java] [oracle/graal](https://github.com/oracle/graal) ⭐ 21,669 | 🐛 848 | 🌐 Java | 📅 2026-08-24 Run Programs Faster Anywhere
+* \[**7020**星]\[14d] \[Go] [nats-io/nats-server](https://github.com/nats-io/nats-server) ⭐ 20,579 | 🐛 543 | 🌐 Go | 📅 2026-08-24 High-Performance server for NATS, the cloud native messaging system.
+* \[**5753**星]\[18d] \[Go] [casbin/casbin](https://github.com/casbin/casbin) ⭐ 20,342 | 🐛 38 | 🌐 Go | 📅 2026-08-21 An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+* \[**3608**星]\[9d] \[Pascal] [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) ⭐ 19,041 | 🐛 1,308 | 🌐 Pascal | 📅 2025-04-19 Cheat Engine. A development environment focused on modding
+* \[**4610**星]\[1y] \[C] [upx/upx](https://github.com/upx/upx) ⭐ 17,809 | 🐛 27 | 🌐 C++ | 📅 2026-08-24 UPX - the Ultimate Packer for eXecutables
+* \[**5226**星]\[13d] \[Shell] [denisidoro/navi](https://github.com/denisidoro/navi) ⭐ 17,473 | 🐛 113 | 🌐 Rust | 📅 2026-07-28 An interactive cheatsheet tool for the command-line
+* \[**11213**星]\[2m] \[Jupyter Notebook] [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 16,695 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20 One has no future if one couldn't teach themself.
+* \[**2815**星]\[20d] \[C] [processhacker/processhacker](https://github.com/processhacker/processhacker) ⭐ 15,683 | 🐛 290 | 🌐 C | 📅 2026-08-21 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+* \[**3295**星]\[15d] \[JS] [koenkk/zigbee2mqtt](https://github.com/koenkk/zigbee2mqtt) ⭐ 15,564 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-22 Zigbee
+* \[**6894**星]\[2m] \[Go] [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,788 | 🐛 62 | 🌐 Go | 📅 2024-02-22 A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+* \[**7748**星]\[10d] \[Go] [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ⭐ 14,438 | 🐛 484 | 🌐 Go | 📅 2026-08-19 Git extension for versioning large files
+* \[**5116**星]\[11d] \[ASP] [hq450/fancyss](https://github.com/hq450/fancyss) ⭐ 13,710 | 🐛 213 | 🌐 Shell | 📅 2026-06-01 fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+* \[**3129**星]\[13d] \[C] [qemu/qemu](https://github.com/qemu/qemu) ⭐ 13,614 | 🐛 0 | 🌐 C | 📅 2026-08-24 Official QEMU mirror. Please see
+* \[**5229**星]\[4m] \[Py] [ytisf/thezoo](https://github.com/ytisf/thezoo) ⭐ 13,322 | 🐛 89 | 🌐 Python | 📅 2026-07-24 A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+* \[**2344**星]\[16d] \[C] [tsl0922/ttyd](https://github.com/tsl0922/ttyd) ⭐ 12,253 | 🐛 113 | 🌐 C | 📅 2026-08-12 Share your terminal over the web
+* \[**3980**星]\[1m] \[Rust] [svenstaro/genact](https://github.com/svenstaro/genact) ⭐ 12,177 | 🐛 16 | 🌐 Rust | 📅 2026-08-01 a nonsense activity generator
+* \[**3505**星]\[16d] \[C] [cyan4973/xxhash](https://github.com/cyan4973/xxhash) ⭐ 11,218 | 🐛 42 | 🌐 C | 📅 2026-07-27 Extremely fast non-cryptographic hash algorithm
+* \[**4003**星]\[11d] \[Go] [dexidp/dex](https://github.com/dexidp/dex) ⭐ 11,056 | 🐛 527 | 🌐 Go | 📅 2026-08-24 OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+* \[**2993**星]\[18d] \[Py] [quantaxis/quantaxis](https://github.com/quantaxis/quantaxis) ⭐ 11,038 | 🐛 239 | 🌐 Python | 📅 2026-02-28 支持任务调度 分布式部署的 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案
+* \[**3908**星]\[12d] \[C++] [baldurk/renderdoc](https://github.com/baldurk/renderdoc) ⭐ 11,007 | 🐛 49 | 🌐 C++ | 📅 2026-08-20 RenderDoc is a stand-alone graphics debugging tool.
+* \[**2053**星]\[24d] \[C#] [mathewsachin/captura](https://github.com/mathewsachin/captura) ⭐ 10,798 | 🐛 116 | 🌐 C# | 📅 2026-05-25 Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+* \[**2627**星]\[23d] \[JS] [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) ⭐ 10,647 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-24 Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+* \[**4597**星]\[12d] \[C++] [mozilla/rr](https://github.com/mozilla/rr) ⭐ 10,628 | 🐛 480 | 🌐 C++ | 📅 2026-08-16 记录与重放App的调试执行过程
+* \[**5751**星]\[9m] \[C] [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,490 | 🐛 25 | 🌐 C | 📅 2024-05-29 C编译器，编译的二进制文件只有1个代码块。
+* \[**2718**星]\[3m] \[Py] [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) ⭐ 10,018 | 🐛 34 | 🌐 Python | 📅 2026-08-07 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* \[**4857**星]\[13d] \[Go] [gcla/termshark](https://github.com/gcla/termshark) ⭐ 9,962 | 🐛 50 | 🌐 Go | 📅 2024-04-30 A terminal UI for tshark, inspired by Wireshark
+* \[**3289**星]\[15d] \[C] [virustotal/yara](https://github.com/virustotal/yara) ⭐ 9,821 | 🐛 171 | 🌐 C | 📅 2026-08-21 The pattern matching swiss knife
+* \[**5876**星]\[3m] \[Gnuplot] [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,601 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 * \[**5717**星]\[28d] \[JS] [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) ⭐ 9,461 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-19 Swagger Editor
-* \[**3108**星]\[1m] \[C] [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,258 | 🐛 215 | 🌐 C | 📅 2026-07-30 Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
+* \[**3108**星]\[1m] \[C] [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,259 | 🐛 216 | 🌐 C | 📅 2026-07-30 Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 * \[**6353**星]\[2m] \[Py] [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) ⚠️ Archived Fuzzy String Matching in Python
 * \[**3188**星]\[11d] \[C] [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) ⭐ 9,156 | 🐛 43 | 🌐 C | 📅 2026-07-27 Janus WebRTC Server
-* \[**3960**星]\[11d] \[Py] [angr/angr](https://github.com/angr/angr) ⭐ 9,029 | 🐛 680 | 🌐 Python | 📅 2026-08-23 A powerful and user-friendly binary analysis platform!
-* \[**3939**星]\[15d] \[C] [aquynh/capstone](https://github.com/aquynh/capstone) ⭐ 8,971 | 🐛 365 | 🌐 C | 📅 2026-08-22 Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86\_64, XCore) + bindings.
-* \[**3844**星]\[2m] \[ObjC] [sveinbjornt/sloth](https://github.com/sveinbjornt/sloth) ⭐ 8,943 | 🐛 3 | 🌐 Objective-C | 📅 2026-05-28 Mac app that shows all open files, directories and sockets in use by all running processes. Nice GUI for lsof.
-* \[**3451**星]\[19d] \[C] [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 8,825 | 🐛 18 | 🌐 C | 📅 2026-08-23 AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
-* \[**2587**星]\[10d] \[C] [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,708 | 🐛 238 | 🌐 C | 📅 2026-07-10 A TCP, UDP, and SCTP network bandwidth measurement tool
-* \[**4651**星]\[13d] [powershell/win32-openssh](https://github.com/powershell/win32-openssh) ⭐ 8,252 | 🐛 402 | 📅 2025-10-27 Win32 port of OpenSSH
+* \[**3960**星]\[11d] \[Py] [angr/angr](https://github.com/angr/angr) ⭐ 9,030 | 🐛 684 | 🌐 Python | 📅 2026-08-24 A powerful and user-friendly binary analysis platform!
+* \[**3939**星]\[15d] \[C] [aquynh/capstone](https://github.com/aquynh/capstone) ⭐ 8,972 | 🐛 365 | 🌐 C | 📅 2026-08-22 Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86\_64, XCore) + bindings.
+* \[**3844**星]\[2m] \[ObjC] [sveinbjornt/sloth](https://github.com/sveinbjornt/sloth) ⭐ 8,944 | 🐛 3 | 🌐 Objective-C | 📅 2026-05-28 Mac app that shows all open files, directories and sockets in use by all running processes. Nice GUI for lsof.
+* \[**3451**星]\[19d] \[C] [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 8,824 | 🐛 18 | 🌐 C | 📅 2026-08-24 AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
+* \[**2587**星]\[10d] \[C] [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,709 | 🐛 238 | 🌐 C | 📅 2026-07-10 A TCP, UDP, and SCTP network bandwidth measurement tool
+* \[**4651**星]\[13d] [powershell/win32-openssh](https://github.com/powershell/win32-openssh) ⭐ 8,251 | 🐛 402 | 📅 2025-10-27 Win32 port of OpenSSH
 * \[**4541**星]\[4m] \[TS] [apis-guru/graphql-voyager](https://github.com/apis-guru/graphql-voyager) ⭐ 8,161 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12
-* \[**3306**星]\[19d] \[C] [microsoft/windows-driver-samples](https://github.com/microsoft/windows-driver-samples) ⭐ 7,827 | 🐛 126 | 🌐 C | 📅 2026-08-12 This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-* \[**2948**星]\[1m] \[C] [libfuse/sshfs](https://github.com/libfuse/sshfs) ⭐ 7,631 | 🐛 61 | 🌐 C | 📅 2026-08-08 A network filesystem client to connect to SSH servers
-* \[**4314**星]\[15d] \[Rust] [timvisee/ffsend](https://github.com/timvisee/ffsend) ⭐ 7,374 | 🐛 33 | 🌐 Rust | 📅 2025-11-20 Easily and securely share files from the command line
+* \[**3306**星]\[19d] \[C] [microsoft/windows-driver-samples](https://github.com/microsoft/windows-driver-samples) ⭐ 7,829 | 🐛 126 | 🌐 C | 📅 2026-08-12 This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+* \[**2948**星]\[1m] \[C] [libfuse/sshfs](https://github.com/libfuse/sshfs) ⭐ 7,633 | 🐛 61 | 🌐 C | 📅 2026-08-08 A network filesystem client to connect to SSH servers
+* \[**4314**星]\[15d] \[Rust] [timvisee/ffsend](https://github.com/timvisee/ffsend) ⭐ 7,375 | 🐛 33 | 🌐 Rust | 📅 2025-11-20 Easily and securely share files from the command line
 * \[**4747**星]\[8d] \[C++] [paddlepaddle/paddle-lite](https://github.com/PaddlePaddle/Paddle-Lite) ⭐ 7,273 | 🐛 51 | 🌐 C++ | 📅 2026-04-27 Multi-platform high performance deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）
 * \[**5829**星]\[7m] \[JS] [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) ⭐ 7,000 | 🐛 6 | 🌐 JavaScript | 📅 2025-11-09 Fabulously kill processes. Cross-platform.
-* \[**2194**星]\[13d] \[C] [armmbed/mbedtls](https://github.com/armmbed/mbedtls) ⭐ 6,902 | 🐛 1,724 | 🌐 C | 📅 2026-08-20 An open source, portable, easy to use, readable and flexible SSL library
+* \[**2194**星]\[13d] \[C] [armmbed/mbedtls](https://github.com/armmbed/mbedtls) ⭐ 6,903 | 🐛 1,724 | 🌐 C | 📅 2026-08-20 An open source, portable, easy to use, readable and flexible SSL library
 * \[**6454**星]\[9m] \[HTML] [open-power-workgroup/hospital](https://github.com/open-power-workgroup/hospital) ⭐ 6,713 | 🐛 48 | 🌐 HTML | 📅 2020-10-27 OpenPower工作组收集汇总的医院开放数据
 * \[**4062**星]\[3m] \[Java] [jesusfreke/smali](https://github.com/jesusfreke/smali) ⚠️ Archived smali/baksmali
-* \[**2621**星]\[2m] [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,622 | 🐛 34 | 📅 2026-08-04 A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-* \[**4060**星]\[2m] \[JS] [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) ⭐ 6,492 | 🐛 157 | 🌐 JavaScript | 📅 2024-04-22 WhatsApp Web API逆向与重新实现
-* \[**2854**星]\[1m] \[Py] [espressif/esptool](https://github.com/espressif/esptool) ⭐ 6,455 | 🐛 16 | 🌐 Python | 📅 2026-08-20 ESP8266 and ESP32 serial bootloader utility
+* \[**2621**星]\[2m] [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04 A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+* \[**4060**星]\[2m] \[JS] [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) ⭐ 6,491 | 🐛 157 | 🌐 JavaScript | 📅 2024-04-22 WhatsApp Web API逆向与重新实现
+* \[**2854**星]\[1m] \[Py] [espressif/esptool](https://github.com/espressif/esptool) ⭐ 6,456 | 🐛 16 | 🌐 Python | 📅 2026-08-20 ESP8266 and ESP32 serial bootloader utility
 * \[**1698**星]\[21d] \[C++] [microsoft/detours](https://github.com/microsoft/detours) ⭐ 6,361 | 🐛 93 | 🌐 C++ | 📅 2026-08-05 Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
-* \[**408**星]\[19d] \[Py] [crytic/slither](https://github.com/crytic/slither) ⭐ 6,349 | 🐛 473 | 🌐 Python | 📅 2026-08-19 Static Analyzer for Solidity
+* \[**408**星]\[19d] \[Py] [crytic/slither](https://github.com/crytic/slither) ⭐ 6,350 | 🐛 473 | 🌐 Python | 📅 2026-08-19 Static Analyzer for Solidity
 * \[**5007**星]\[2m] \[Py] [snare/voltron](https://github.com/snare/voltron) ⭐ 6,345 | 🐛 85 | 🌐 Python | 📅 2025-01-30 A hacky debugger UI for hackers
 * \[**3233**星]\[25d] \[C] [tmate-io/tmate](https://github.com/tmate-io/tmate) ⭐ 6,113 | 🐛 130 | 🌐 C | 📅 2026-07-29 Instant Terminal Sharing
 * \[**3690**星]\[21d] \[JS] [lesspass/lesspass](https://github.com/lesspass/lesspass) ⭐ 6,051 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-12
 * \[**3954**星]\[16d] \[Go] [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) ⭐ 5,995 | 🐛 3 | 🌐 Go | 📅 2022-08-14 handling 1M websockets connections in Go
 * \[**3768**星]\[2m] \[Go] [microsoft/ethr](https://github.com/microsoft/ethr) ⭐ 5,866 | 🐛 51 | 🌐 Go | 📅 2026-07-03 Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.
 * \[**2631**星]\[8m] [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) ⭐ 5,814 | 🐛 3 | 📅 2026-06-03 Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
-* \[**3120**星]\[11d] \[Go] [tencent/bk-cmdb](https://github.com/tencent/bk-cmdb) ⭐ 5,741 | 🐛 86 | 🌐 Go | 📅 2026-08-07 蓝鲸智云配置平台(BlueKing CMDB)
+* \[**3120**星]\[11d] \[Go] [tencent/bk-cmdb](https://github.com/tencent/bk-cmdb) ⭐ 5,741 | 🐛 87 | 🌐 Go | 📅 2026-08-07 蓝鲸智云配置平台(BlueKing CMDB)
 * \[**2092**星]\[26d] [swiftonsecurity/sysmon-config](https://github.com/swiftonsecurity/sysmon-config) ⭐ 5,627 | 🐛 82 | 📅 2024-07-03 Sysmon configuration file template with default high-quality event tracing
-* \[**1930**星]\[22d] \[C++] [mhammond/pywin32](https://github.com/mhammond/pywin32) ⭐ 5,600 | 🐛 399 | 🌐 C++ | 📅 2026-08-23 Python for Windows (pywin32) Extensions
-* \[**1620**星]\[16d] \[C++] [lief-project/lief](https://github.com/lief-project/lief) ⭐ 5,546 | 🐛 31 | 🌐 C++ | 📅 2026-08-22 Library to Instrument Executable Formats
+* \[**1930**星]\[22d] \[C++] [mhammond/pywin32](https://github.com/mhammond/pywin32) ⭐ 5,601 | 🐛 399 | 🌐 C++ | 📅 2026-08-23 Python for Windows (pywin32) Extensions
+* \[**1620**星]\[16d] \[C++] [lief-project/lief](https://github.com/lief-project/lief) ⭐ 5,547 | 🐛 31 | 🌐 C++ | 📅 2026-08-22 Library to Instrument Executable Formats
 * \[**2211**星]\[1m] \[C++] [google/bloaty](https://github.com/google/bloaty) ⭐ 5,534 | 🐛 71 | 🌐 C++ | 📅 2026-05-31 Bloaty McBloatface: a size profiler for binaries
 * \[**2898**星]\[8m] \[C] [p-h-c/phc-winner-argon2](https://github.com/p-h-c/phc-winner-argon2) ⭐ 5,356 | 🐛 102 | 🌐 C | 📅 2024-08-06 The password hash Argon2, winner of PHC
-* \[**2833**星]\[2m] \[Assembly] [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) ⭐ 5,340 | 🐛 7 | 🌐 Assembly | 📅 2022-07-18 几十个用于学习 x86 系统编程的小型操作系统
+* \[**2833**星]\[2m] \[Assembly] [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) ⭐ 5,341 | 🐛 7 | 🌐 Assembly | 📅 2022-07-18 几十个用于学习 x86 系统编程的小型操作系统
 * \[**2872**星]\[14d] \[C] [lxc/lxc](https://github.com/lxc/lxc) ⭐ 5,247 | 🐛 149 | 🌐 C | 📅 2026-08-20 LXC - Linux Containers
-* \[**1816**星]\[29d] \[Go] [gdamore/tcell](https://github.com/gdamore/tcell) ⭐ 5,215 | 🐛 7 | 🌐 Go | 📅 2026-08-21 Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
+* \[**1816**星]\[29d] \[Go] [gdamore/tcell](https://github.com/gdamore/tcell) ⭐ 5,215 | 🐛 9 | 🌐 Go | 📅 2026-08-21 Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 * \[**3131**星]\[2m] \[CSS] [readthedocs/sphinx\_rtd\_theme](https://github.com/readthedocs/sphinx_rtd_theme) ⭐ 5,075 | 🐛 274 | 🌐 Sass | 📅 2026-01-12 Sphinx theme for readthedocs.org
-* \[**2093**星]\[10d] \[C] [flatpak/flatpak](https://github.com/flatpak/flatpak) ⭐ 5,046 | 🐛 1,020 | 🌐 C | 📅 2026-08-23 Linux application sandboxing and distribution framework
+* \[**2093**星]\[10d] \[C] [flatpak/flatpak](https://github.com/flatpak/flatpak) ⭐ 5,046 | 🐛 1,019 | 🌐 C | 📅 2026-08-24 Linux application sandboxing and distribution framework
 * \[**2789**星]\[13d] \[C++] [qtox/qtox](https://github.com/qtox/qtox) ⚠️ Archived qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 * \[**2132**星]\[20d] [goq/telegram-list](https://github.com/goq/telegram-list) ⭐ 4,966 | 🐛 23 | 📅 2026-08-05 List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
-* \[**2391**星]\[21d] \[Java] [mock-server/mockserver](https://github.com/mock-server/mockserver) ⭐ 4,949 | 🐛 1 | 🌐 Java | 📅 2026-08-22 MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
+* \[**2391**星]\[21d] \[Java] [mock-server/mockserver](https://github.com/mock-server/mockserver) ⭐ 4,949 | 🐛 2 | 🌐 Java | 📅 2026-08-22 MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
 * \[**4600**星]\[12m] \[Py] [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) ⭐ 4,916 | 🐛 6 | 🌐 Python | 📅 2019-01-18 defeating the latest version of ReCaptcha with 91% accuracy
 * \[**4810**星]\[8m] \[Py] [10se1ucgo/disablewintracking](https://github.com/10se1ucgo/disablewintracking) ⚠️ Archived Uses some known methods that attempt to minimize tracking in Windows 10
 * \[**2137**星]\[19d] \[Assembly] [pret/pokered](https://github.com/pret/pokered) ⭐ 4,891 | 🐛 22 | 🌐 Assembly | 📅 2026-08-13 disassembly of Pokémon Red/Blue
-* \[**3749**星]\[12d] \[Go] [hashicorp/consul-template](https://github.com/hashicorp/consul-template) ⭐ 4,824 | 🐛 230 | 🌐 Go | 📅 2026-08-18 Template rendering, notifier, and supervisor for
-* \[**1761**星]\[13d] \[C] [google/wuffs](https://github.com/google/wuffs) ⭐ 4,815 | 🐛 37 | 🌐 C | 📅 2026-08-08 Wrangling Untrusted File Formats Safely
+* \[**3749**星]\[12d] \[Go] [hashicorp/consul-template](https://github.com/hashicorp/consul-template) ⭐ 4,824 | 🐛 230 | 🌐 Go | 📅 2026-08-24 Template rendering, notifier, and supervisor for
+* \[**1761**星]\[13d] \[C] [google/wuffs](https://github.com/google/wuffs) ⭐ 4,814 | 🐛 37 | 🌐 C | 📅 2026-08-08 Wrangling Untrusted File Formats Safely
 * \[**3202**星]\[1y] \[Shell] [toyodadoubi/doubi](https://github.com/toyodadoubi/doubi) ⭐ 4,690 | 🐛 13 | 🌐 Shell | 📅 2020-10-20 一个逗比写的各种逗比脚本\~
-* \[**2615**星]\[1m] \[JS] [knownsec/kcon](https://github.com/knownsec/kcon) ⭐ 4,658 | 🐛 5 | 🌐 JavaScript | 📅 2024-08-28 KCon is a famous Hacker Con powered by Knownsec Team.
+* \[**2615**星]\[1m] \[JS] [knownsec/kcon](https://github.com/knownsec/kcon) ⭐ 4,657 | 🐛 5 | 🌐 JavaScript | 📅 2024-08-28 KCon is a famous Hacker Con powered by Knownsec Team.
 * \[**2003**星]\[2m] \[C++] [asmjit/asmjit](https://github.com/asmjit/asmjit) ⭐ 4,588 | 🐛 26 | 🌐 C++ | 📅 2026-03-26 Complete x86/x64 JIT and AOT Assembler for C++
 * \[**2980**星]\[14d] \[ObjC] [google/santa](https://github.com/google/santa) ⚠️ Archived 用于Mac系统的二进制文件白名单/黑名单系统
 * \[**4352**星]\[1y] \[Py] [lennylxx/ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) ⚠️ Archived Fork of
-* \[**2340**星]\[2m] \[JS] [pa11y/pa11y](https://github.com/pa11y/pa11y) ⭐ 4,490 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-17 Pa11y is your automated accessibility testing pal
+* \[**2340**星]\[2m] \[JS] [pa11y/pa11y](https://github.com/pa11y/pa11y) ⭐ 4,490 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-24 Pa11y is your automated accessibility testing pal
 * \[**4258**星]\[12m] \[JS] [butterproject/butter-desktop](https://github.com/butterproject/butter-desktop) ⭐ 4,256 | 🐛 80 | 🌐 JavaScript | 📅 2020-11-01 All the free parts of Popcorn Time
 * \[**2535**星]\[3m] \[Java] [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) ⭐ 4,228 | 🐛 253 | 🌐 Java | 📅 2026-08-23 Java bytecode engineering toolkit
 * \[**2848**星]\[6m] \[Py] [instantbox/instantbox](https://github.com/instantbox/instantbox) ⭐ 4,176 | 🐛 8 | 🌐 Python | 📅 2024-03-12 Get a clean, ready-to-go Linux box in seconds.
 * \[**3688**星]\[29d] \[HTML] [hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) ⭐ 4,175 | 🐛 71 | 🌐 HTML | 📅 2024-06-10 This project is intended to protest against the police in Japan
 * \[**1779**星]\[29d] [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) ⭐ 4,102 | 🐛 19 | 📅 2025-03-04
-* \[**1714**星]\[1m] \[Go] [hashicorp/memberlist](https://github.com/hashicorp/memberlist) ⭐ 4,095 | 🐛 96 | 🌐 Go | 📅 2026-08-23 Golang package for gossip based membership and failure detection
+* \[**1714**星]\[1m] \[Go] [hashicorp/memberlist](https://github.com/hashicorp/memberlist) ⭐ 4,095 | 🐛 95 | 🌐 Go | 📅 2026-08-24 Golang package for gossip based membership and failure detection
 * \[**2217**星]\[14d] \[Go] [google/mtail](https://github.com/google/mtail) ⭐ 4,026 | 🐛 59 | 🌐 Go | 📅 2026-03-19 extract whitebox monitoring data from application logs for collection in a timeseries database
-* \[**2052**星]\[13d] \[C++] [openthread/openthread](https://github.com/openthread/openthread) ⭐ 4,017 | 🐛 172 | 🌐 C++ | 📅 2026-08-22 OpenThread released by Google is an open-source implementation of the Thread networking protocol
+* \[**2052**星]\[13d] \[C++] [openthread/openthread](https://github.com/openthread/openthread) ⭐ 4,017 | 🐛 175 | 🌐 C++ | 📅 2026-08-24 OpenThread released by Google is an open-source implementation of the Thread networking protocol
 * \[**3280**星]\[29d] \[Java] [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) ⭐ 4,006 | 🐛 75 | 🌐 Java | 📅 2022-10-25 Java诊断工具
 * \[**1668**星]\[3m] \[Py] [boppreh/keyboard](https://github.com/boppreh/keyboard) ⭐ 3,962 | 🐛 416 | 🌐 Python | 📅 2026-07-10 Hook and simulate global keyboard events on Windows and Linux.
-* \[**1727**星]\[8d] \[TSQL] [brentozarultd/sql-server-first-responder-kit](https://github.com/brentozarultd/sql-server-first-responder-kit) ⭐ 3,882 | 🐛 10 | 🌐 TSQL | 📅 2026-08-23 sp\_Blitz, sp\_BlitzCache, sp\_BlitzFirst, sp\_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.
+* \[**1727**星]\[8d] \[TSQL] [brentozarultd/sql-server-first-responder-kit](https://github.com/brentozarultd/sql-server-first-responder-kit) ⭐ 3,883 | 🐛 11 | 🌐 TSQL | 📅 2026-08-23 sp\_Blitz, sp\_BlitzCache, sp\_BlitzFirst, sp\_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.
 * \[**1827**星]\[13d] \[Py] [trailofbits/manticore](https://github.com/trailofbits/manticore) ⚠️ Archived 动态二进制分析工具，支持符号执行（symbolic execution）、污点分析（taint analysis）、运行时修改。
 * \[**1899**星]\[25d] \[C++] [acidanthera/lilu](https://github.com/acidanthera/Lilu) ⭐ 3,852 | 🐛 0 | 🌐 C | 📅 2026-03-20 Arbitrary kext and process patching on macOS
-* \[**1637**星]\[12d] \[JS] [efforg/privacybadger](https://github.com/efforg/privacybadger) ⭐ 3,815 | 🐛 143 | 🌐 JavaScript | 📅 2026-08-19 Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-* \[**2364**星]\[10d] \[C] [domoticz/domoticz](https://github.com/domoticz/domoticz) ⭐ 3,792 | 🐛 30 | 🌐 C++ | 📅 2026-08-22 monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more
+* \[**1637**星]\[12d] \[JS] [efforg/privacybadger](https://github.com/efforg/privacybadger) ⭐ 3,817 | 🐛 143 | 🌐 JavaScript | 📅 2026-08-19 Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+* \[**2364**星]\[10d] \[C] [domoticz/domoticz](https://github.com/domoticz/domoticz) ⭐ 3,792 | 🐛 31 | 🌐 C++ | 📅 2026-08-24 monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more
 * \[**2031**星]\[10m] \[C] [dekunukem/nintendo\_switch\_reverse\_engineering](https://github.com/dekunukem/nintendo_switch_reverse_engineering) ⭐ 3,774 | 🐛 92 | 🌐 C | 📅 2026-08-21 A look at inner workings of Joycon and Nintendo Switch
 * \[**2305**星]\[2m] \[C] [moby/hyperkit](https://github.com/moby/hyperkit) ⭐ 3,713 | 🐛 53 | 🌐 C | 📅 2023-04-28 A toolkit for embedding hypervisor capabilities in your application
 * \[**2760**星]\[10d] \[TS] [webhintio/hint](https://github.com/webhintio/hint) ⭐ 3,698 | 🐛 531 | 🌐 TypeScript | 📅 2026-07-21
 * \[**2474**星]\[25d] \[JS] [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) ⭐ 3,555 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 PostgreSQL interface for Node.js
 * \[**3219**星]\[2m] \[TS] [google/incremental-dom](https://github.com/google/incremental-dom) ⚠️ Archived An in-place DOM diffing library
-* \[**1722**星]\[4m] \[Py] [anorov/cloudflare-scrape](https://github.com/anorov/cloudflare-scrape) ⭐ 3,537 | 🐛 128 | 🌐 Python | 📅 2023-10-14 A Python module to bypass Cloudflare's anti-bot page.
+* \[**1722**星]\[4m] \[Py] [anorov/cloudflare-scrape](https://github.com/anorov/cloudflare-scrape) ⭐ 3,538 | 🐛 128 | 🌐 Python | 📅 2023-10-14 A Python module to bypass Cloudflare's anti-bot page.
 * \[**3052**星]\[4m] \[C++] [google/robotstxt](https://github.com/google/robotstxt) ⭐ 3,471 | 🐛 12 | 🌐 C++ | 📅 2026-04-01 The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
-* \[**1781**星]\[26d] \[PHP] [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) ⭐ 3,349 | 🐛 133 | 🌐 PHP | 📅 2026-08-12 Standards compliant HTML filter written in PHP
+* \[**1781**星]\[26d] \[PHP] [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) ⭐ 3,349 | 🐛 134 | 🌐 PHP | 📅 2026-08-12 Standards compliant HTML filter written in PHP
 * \[**1863**星]\[10d] \[C++] [pytorch/glow](https://github.com/pytorch/glow) ⚠️ Archived Compiler for Neural Network hardware accelerators
 * \[**1624**星]\[9m] \[JS] [localtunnel/server](https://github.com/localtunnel/server) ⭐ 3,317 | 🐛 93 | 🌐 JavaScript | 📅 2024-03-20 server for localtunnel.me
 * \[**1877**星]\[25d] \[Java] [adoptopenjdk/jitwatch](https://github.com/adoptopenjdk/jitwatch) ⭐ 3,305 | 🐛 18 | 🌐 Java | 📅 2025-12-28 Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
@@ -2018,7 +2018,7 @@
 * \[**1786**星]\[1m] \[C++] [apitrace/apitrace](https://github.com/apitrace/apitrace) ⭐ 2,859 | 🐛 158 | 🌐 C++ | 📅 2026-06-03 Tools for tracing OpenGL, Direct3D, and other graphics APIs
 * \[**1756**星]\[16d] \[PHP] [wordpress/wordpress-coding-standards](https://github.com/wordpress/wordpress-coding-standards) ⭐ 2,823 | 🐛 263 | 🌐 PHP | 📅 2026-08-20 PHP\_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 * \[**2619**星]\[2m] \[Swift] [zhuhaow/nekit](https://github.com/zhuhaow/nekit) ⚠️ Archived A toolkit for Network Extension Framework
-* \[**2053**星]\[4m] \[Go] [maxmcd/webtty](https://github.com/maxmcd/webtty) ⭐ 2,814 | 🐛 18 | 🌐 Go | 📅 2024-12-11 Share a terminal session over WebRTC
+* \[**2053**星]\[4m] \[Go] [maxmcd/webtty](https://github.com/maxmcd/webtty) ⭐ 2,813 | 🐛 18 | 🌐 Go | 📅 2024-12-11 Share a terminal session over WebRTC
 * \[**2286**星]\[1m] \[JS] [talkingdata/inmap](https://github.com/talkingdata/inmap) ⭐ 2,809 | 🐛 56 | 🌐 JavaScript | 📅 2024-03-04 大数据地理可视化
 * \[**2772**星]\[2m] \[JS] [trufflesuite/ganache-cli](https://github.com/trufflesuite/ganache-cli) ⚠️ Archived Fast Ethereum RPC client for testing and development
 * \[**1851**星]\[1y] \[Java] [yeriomin/yalpstore](https://github.com/yeriomin/yalpstore) ⭐ 2,547 | 🐛 19 | 🌐 Java | 📅 2022-09-27 Download apks from Google Play Store
@@ -2030,13 +2030,13 @@
 * \[**1592**星]\[2m] \[ObjC] [ealeksandrov/provisionql](https://github.com/ealeksandrov/provisionql) ⭐ 2,455 | 🐛 3 | 🌐 Swift | 📅 2026-08-16 Quick Look plugin for apps and provisioning profile files
 * \[**1854**星]\[19d] \[C] [github/glb-director](https://github.com/github/glb-director) ⭐ 2,452 | 🐛 33 | 🌐 C | 📅 2026-08-24 GitHub Load Balancer Director and supporting tooling.
 * \[**1761**星]\[1y] \[JS] [puppeteer/examples](https://github.com/puppeteer/examples) ⭐ 2,415 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-21 Use case-driven examples for using Puppeteer and headless chrome
-* \[**1676**星]\[10d] \[Java] [apache/geode](https://github.com/apache/geode) ⭐ 2,376 | 🐛 30 | 🌐 Java | 📅 2026-08-23 Apache Geode
-* \[**1837**星]\[3m] \[Go] [influxdata/kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,374 | 🐛 833 | 🌐 Go | 📅 2026-08-10 Open source framework for processing, monitoring, and alerting on time series data
+* \[**1676**星]\[10d] \[Java] [apache/geode](https://github.com/apache/geode) ⭐ 2,376 | 🐛 30 | 🌐 Java | 📅 2026-08-24 Apache Geode
+* \[**1837**星]\[3m] \[Go] [influxdata/kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,375 | 🐛 833 | 🌐 Go | 📅 2026-08-10 Open source framework for processing, monitoring, and alerting on time series data
 * \[**1846**星]\[3m] \[C] [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) ⚠️ Archived Reversing Google's 3D satellite mode
 * \[**1998**星]\[2m] \[Swift] [github/softu2f](https://github.com/github/softu2f) ⚠️ Archived Software U2F authenticator for macOS
 * \[**1852**星]\[1y] \[Py] [jinnlynn/genpac](https://github.com/jinnlynn/genpac) ⭐ 2,187 | 🐛 0 | 🌐 Python | 📅 2026-08-24 PAC/Dnsmasq/Wingy file Generator, working with gfwlist, support custom rules.
-* \[**906**星]\[7m] \[C++] [dfhack/dfhack](https://github.com/DFHack/dfhack) ⭐ 2,038 | 🐛 1,059 | 🌐 C++ | 📅 2026-08-23 Memory hacking library for Dwarf Fortress and a set of tools that use it
-* \[**1848**星]\[9m] \[Py] [netflix-skunkworks/stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) ⭐ 2,006 | 🐛 44 | 🌐 Python | 📅 2023-08-01 Personalized, user-focused recommendations for employee information security.
+* \[**906**星]\[7m] \[C++] [dfhack/dfhack](https://github.com/DFHack/dfhack) ⭐ 2,039 | 🐛 1,059 | 🌐 C++ | 📅 2026-08-24 Memory hacking library for Dwarf Fortress and a set of tools that use it
+* \[**1848**星]\[9m] \[Py] [netflix-skunkworks/stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) ⭐ 2,005 | 🐛 44 | 🌐 Python | 📅 2023-08-01 Personalized, user-focused recommendations for employee information security.
 * \[**1572**星]\[1m] \[C] [codahale/bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) ⭐ 1,995 | 🐛 19 | 🌐 C | 📅 2026-06-19  Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 * \[**1659**星]\[25d] \[JS] [tylerbrock/mongo-hacker](https://github.com/tylerbrock/mongo-hacker) ⭐ 1,794 | 🐛 5 | 🌐 JavaScript | 📅 2022-09-17 MongoDB Shell Enhancements for Hackers
 * \[**1562**星]\[19d] \[Java] [gchq/gaffer](https://github.com/gchq/Gaffer) ⚠️ Archived A large-scale entity and relation database supporting aggregation of properties
@@ -2051,11 +2051,11 @@
 * \[**568**星]\[11m] \[JS] [raineorshine/solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,028 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 Visualize Solidity control flow for smart contract security analysis.
 * \[**523**星]\[2m] [mhaggis/sysmon-dfir](https://github.com/mhaggis/sysmon-dfir) ⭐ 943 | 🐛 0 | 📅 2023-12-12 Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.
 * \[**706**星]\[1y] \[Jupyter Notebook] [anishathalye/obfuscated-gradients](https://github.com/anishathalye/obfuscated-gradients) ⭐ 911 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-10 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
-* \[**507**星]\[8m] \[JS] [mindedsecurity/jstillery](https://github.com/mindedsecurity/jstillery) ⭐ 900 | 🐛 22 | 🌐 JavaScript | 📅 2019-05-30 Advanced JavaScript Deobfuscation via Partial Evaluation
+* \[**507**星]\[8m] \[JS] [mindedsecurity/jstillery](https://github.com/mindedsecurity/jstillery) ⭐ 901 | 🐛 22 | 🌐 JavaScript | 📅 2019-05-30 Advanced JavaScript Deobfuscation via Partial Evaluation
 * \[**265**星]\[3m] \[Assembly] [pret/pokeyellow](https://github.com/pret/pokeyellow) ⭐ 868 | 🐛 3 | 🌐 Assembly | 📅 2026-08-10 Disassembly of Pokemon Yellow
 * \[**446**星]\[11m] \[Batchfile] [ion-storm/sysmon-config](https://github.com/ion-storm/sysmon-config) ⭐ 828 | 🐛 6 | 🌐 PowerShell | 📅 2023-11-05 Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
 * \[**658**星]\[10m] \[Jupyter Notebook] [supercowpowers/data\_hacking](https://github.com/SuperCowPowers/data_hacking) ⭐ 784 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2019-03-05 Data Hacking Project
-* \[**657**星]\[1y] \[Rust] [endgameinc/xori](https://github.com/endgameinc/xori) ⭐ 722 | 🐛 35 | 🌐 Rust | 📅 2023-01-25 Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode
+* \[**657**星]\[1y] \[Rust] [endgameinc/xori](https://github.com/endgameinc/xori) ⭐ 721 | 🐛 35 | 🌐 Rust | 📅 2023-01-25 Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode
 * \[**308**星]\[25d] \[Py] [baderj/domain\_generation\_algorithms](https://github.com/baderj/domain_generation_algorithms) ⭐ 691 | 🐛 0 | 🌐 Python | 📅 2026-06-04 域名生成算法
 * \[**447**星]\[3m] \[Go] [retroplasma/flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering) ⚠️ Archived Reversing Apple's 3D satellite mode
 * \[**383**星]\[1y] \[HTML] [maestron/reverse-engineering-tutorials](https://github.com/maestron/reverse-engineering-tutorials) ⭐ 532 | 🐛 0 | 🌐 HTML | 📅 2018-09-02 Reverse Engineering Tutorials
@@ -2100,11 +2100,11 @@
 
 * \[**1128**星]\[20d] \[C] [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) ⚠️ Archived In application debugger for ARM Cortex microcontrollers.
 * \[**1422**星]\[17d] \[C++] [eteran/edb-debugger](https://github.com/eteran/edb-debugger) ⭐ 2,951 | 🐛 67 | 🌐 C++ | 📅 2026-08-14 edb is a cross platform AArch32/x86/x86-64 debugger.
-* \[**836**星]\[8d] \[C++] [tasvideos/bizhawk](https://github.com/tasvideos/bizhawk) ⭐ 2,731 | 🐛 797 | 🌐 C# | 📅 2026-08-18 BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-* \[**1413**星]\[19d] \[Go] [cosmos72/gomacro](https://github.com/cosmos72/gomacro) ⭐ 2,293 | 🐛 49 | 🌐 Go | 📅 2026-08-02 Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
+* \[**836**星]\[8d] \[C++] [tasvideos/bizhawk](https://github.com/tasvideos/bizhawk) ⭐ 2,732 | 🐛 797 | 🌐 C# | 📅 2026-08-18 BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* \[**1413**星]\[19d] \[Go] [cosmos72/gomacro](https://github.com/cosmos72/gomacro) ⭐ 2,295 | 🐛 49 | 🌐 Go | 📅 2026-08-02 Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 * \[**1450**星]\[10d] \[Go] [google/gapid](https://github.com/google/gapid) ⭐ 2,239 | 🐛 338 | 🌐 Go | 📅 2024-05-08 Graphics API Debugger
 * \[**899**星]\[10d] \[Py] [derekselander/lldb](https://github.com/derekselander/lldb) ⭐ 1,883 | 🐛 15 | 🌐 Python | 📅 2025-07-23 A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions
-* \[**1147**星]\[5m] \[C++] [cgdb/cgdb](https://github.com/cgdb/cgdb) ⭐ 1,841 | 🐛 45 | 🌐 C | 📅 2026-02-27 Console front-end to the GNU debugger
+* \[**1147**星]\[5m] \[C++] [cgdb/cgdb](https://github.com/cgdb/cgdb) ⭐ 1,838 | 🐛 45 | 🌐 C | 📅 2026-02-27 Console front-end to the GNU debugger
 * \[**1275**星]\[4m] \[Go] [solo-io/squash](https://github.com/solo-io/squash) ⭐ 1,766 | 🐛 87 | 🌐 Go | 📅 2022-06-09 The debugger for microservices
 * \[**377**星]\[1m] \[Py] [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) ⭐ 1,464 | 🐛 108 | 🌐 Python | 📅 2024-04-15 pdb++, a drop-in replacement for pdb (the Python debugger)
 * \[**423**星]\[4m] \[C++] [cobaltfusion/debugviewpp](https://github.com/cobaltfusion/debugviewpp) ⭐ 1,265 | 🐛 93 | 🌐 C++ | 📅 2026-04-25 DebugView++, collects, views, filters your application logs, and highlights information that is important to you!
@@ -2137,9 +2137,9 @@
 
 ### <a id="f10e9553770db6f98e8619dcd74166ef"></a>工具
 
-* \[**1106**星]\[14d] \[OCaml] [binaryanalysisplatform/bap](https://github.com/binaryanalysisplatform/bap) ⭐ 2,251 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07 Binary Analysis Platform
+* \[**1106**星]\[14d] \[OCaml] [binaryanalysisplatform/bap](https://github.com/binaryanalysisplatform/bap) ⭐ 2,252 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07 Binary Analysis Platform
 * \[**411**星]\[13d] \[HTML] [w3c/webappsec](https://github.com/w3c/webappsec) ⭐ 668 | 🐛 104 | 🌐 HTML | 📅 2026-06-10 Web App安全工作组
-* \[**299**星]\[17d] \[JS] [w3c/webappsec-trusted-types](https://github.com/w3c/webappsec-trusted-types) ⭐ 662 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-20 A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.
+* \[**299**星]\[17d] \[JS] [w3c/webappsec-trusted-types](https://github.com/w3c/webappsec-trusted-types) ⭐ 662 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-20 A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.
 
 ### <a id="e111826dde8fa44c575ce979fd54755d"></a>文章
 
@@ -2166,24 +2166,24 @@
 
 ### <a id="e67c18b4b682ceb6716388522f9a1417"></a>工具
 
-* \[**20779**星]\[8d] \[Java] [skylot/jadx](https://github.com/skylot/jadx) ⭐ 50,172 | 🐛 442 | 🌐 Java | 📅 2026-08-19 dex 转 java 的反编译器
-* \[**7733**星]\[1m] \[Java] [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) ⭐ 15,176 | 🐛 248 | 🌐 Java | 📅 2024-07-08 A standalone Java Decompiler GUI
-* \[**1867**星]\[1y] \[Java] [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) ⭐ 5,821 | 🐛 5 | 🌐 Java | 📅 2026-08-08 JPEXS Free Flash Decompiler
+* \[**20779**星]\[8d] \[Java] [skylot/jadx](https://github.com/skylot/jadx) ⭐ 50,181 | 🐛 442 | 🌐 Java | 📅 2026-08-19 dex 转 java 的反编译器
+* \[**7733**星]\[1m] \[Java] [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) ⭐ 15,175 | 🐛 248 | 🌐 Java | 📅 2024-07-08 A standalone Java Decompiler GUI
+* \[**1867**星]\[1y] \[Java] [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) ⭐ 5,822 | 🐛 5 | 🌐 Java | 📅 2026-08-08 JPEXS Free Flash Decompiler
 * \[**3135**星]\[26d] \[Java] [deathmarine/luyten](https://github.com/deathmarine/luyten) ⭐ 5,108 | 🐛 193 | 🌐 Java | 📅 2024-07-11 An Open Source Java Decompiler Gui for Procyon
-* \[**671**星]\[11m] \[C++] [zrax/pycdc](https://github.com/zrax/pycdc) ⭐ 4,589 | 🐛 233 | 🌐 C++ | 📅 2026-04-07 C++ python bytecode disassembler and decompiler
-* \[**1652**星]\[12m] \[Java] [fesh0r/fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,368 | 🐛 0 | 🌐 Java | 📅 2026-08-21 Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
+* \[**671**星]\[11m] \[C++] [zrax/pycdc](https://github.com/zrax/pycdc) ⭐ 4,590 | 🐛 233 | 🌐 C++ | 📅 2026-04-07 C++ python bytecode disassembler and decompiler
+* \[**1652**星]\[12m] \[Java] [fesh0r/fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,370 | 🐛 0 | 🌐 Java | 📅 2026-08-21 Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 * \[**1466**星]\[12d] \[Py] [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) ⭐ 4,316 | 🐛 42 | 🌐 Python | 📅 2026-04-24 Python反编译器，跨平台
-* \[**331**星]\[11d] \[Java] [leibnitz27/cfr](https://github.com/leibnitz27/cfr) ⭐ 2,672 | 🐛 150 | 🌐 Java | 📅 2026-06-04 This is the public repository for the CFR Java decompiler
+* \[**331**星]\[11d] \[Java] [leibnitz27/cfr](https://github.com/leibnitz27/cfr) ⭐ 2,673 | 🐛 150 | 🌐 Java | 📅 2026-06-04 This is the public repository for the CFR Java decompiler
 * \[**673**星]\[18d] \[C#] [uxmal/reko](https://github.com/uxmal/reko) ⭐ 2,598 | 🐛 165 | 🌐 C# | 📅 2026-08-23 Reko is a binary decompiler.
-* \[**347**星]\[16d] \[C#] [steamdatabase/valveresourceformat](https://github.com/steamdatabase/valveresourceformat) ⭐ 2,384 | 🐛 69 | 🌐 C# | 📅 2026-08-24 Valve's Source 2 resource file format (also known as Stupid Valve Format) parser and decompiler.
+* \[**347**星]\[16d] \[C#] [steamdatabase/valveresourceformat](https://github.com/steamdatabase/valveresourceformat) ⭐ 2,385 | 🐛 69 | 🌐 C# | 📅 2026-08-24 Valve's Source 2 resource file format (also known as Stupid Valve Format) parser and decompiler.
 * \[**1084**星]\[4m] \[Py] [storyyeller/krakatau](https://github.com/storyyeller/krakatau) ⭐ 2,243 | 🐛 25 | 🌐 Rust | 📅 2026-04-07 Java decompiler, assembler, and disassembler
 * \[**242**星]\[11d] \[C#] [icsharpcode/avaloniailspy](https://github.com/icsharpcode/avaloniailspy) ⚠️ Archived Avalonia-based .NET Decompiler (port of ILSpy)
 * \[**327**星]\[2m] \[C++] [silverf0x/rpcview](https://github.com/silverf0x/rpcview) ⭐ 1,070 | 🐛 15 | 🌐 C++ | 📅 2023-09-24 RpcView is a free tool to explore and decompile Microsoft RPC interfaces
 * \[**764**星]\[12m] \[C++] [comaeio/porosity](https://github.com/comaeio/porosity) ⭐ 932 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
-* \[**240**星]\[2m] \[Java] [ata4/bspsrc](https://github.com/ata4/bspsrc) ⭐ 861 | 🐛 39 | 🌐 Java | 📅 2026-08-13 A Source engine map decompiler
+* \[**240**星]\[2m] \[Java] [ata4/bspsrc](https://github.com/ata4/bspsrc) ⭐ 862 | 🐛 39 | 🌐 Java | 📅 2026-08-13 A Source engine map decompiler
 * \[**283**星]\[8m] \[Shell] [venshine/decompile-apk](https://github.com/venshine/decompile-apk) ⭐ 820 | 🐛 6 | 🌐 Shell | 📅 2025-06-14 APK 反编译
 * \[**538**星]\[6m] \[Java] [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) ⭐ 732 | 🐛 36 | 🌐 Java | 📅 2019-07-17 A Java Decompiler Eclipse plugin
-* \[**243**星]\[3m] \[Java] [kwart/jd-cmd](https://github.com/kwart/jd-cmd) ⭐ 651 | 🐛 9 | 🌐 Java | 📅 2026-08-17 Command line Java Decompiler
+* \[**243**星]\[3m] \[Java] [kwart/jd-cmd](https://github.com/kwart/jd-cmd) ⭐ 651 | 🐛 9 | 🌐 Java | 📅 2026-08-24 Command line Java Decompiler
 * \[**232**星]\[1y] \[C++] [wwwg/wasmdec](https://github.com/wwwg/wasmdec) ⭐ 424 | 🐛 12 | 🌐 C++ | 📅 2024-02-07 WebAssembly to C decompiler
 * \[**226**星]\[11d] \[C++] [boomerangdecompiler/boomerang](https://github.com/BoomerangDecompiler/boomerang) ⭐ 407 | 🐛 38 | 🌐 C++ | 📅 2020-12-28 Boomerang Decompiler - Fighting the code-rot :)
 
@@ -2195,14 +2195,14 @@
 
 ### <a id="59f472c7575951c57d298aef21e7d73c"></a>工具
 
-* \[**1374**星]\[20d] \[C] [zyantific/zydis](https://github.com/zyantific/zydis) ⭐ 4,346 | 🐛 51 | 🌐 C | 📅 2026-07-27 快速的轻量级x86/x86-64 反汇编库
-* \[**430**星]\[2m] \[C#] [0xd4d/iced](https://github.com/0xd4d/iced) ⭐ 3,553 | 🐛 56 | 🌐 Rust | 📅 2026-08-17 x86/x64 disassembler, instruction decoder & encoder
-* \[**835**星]\[8d] \[GLSL] [khronosgroup/spirv-cross](https://github.com/khronosgroup/spirv-cross) ⭐ 2,489 | 🐛 152 | 🌐 GLSL | 📅 2026-07-31  a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
+* \[**1374**星]\[20d] \[C] [zyantific/zydis](https://github.com/zyantific/zydis) ⭐ 4,347 | 🐛 51 | 🌐 C | 📅 2026-07-27 快速的轻量级x86/x86-64 反汇编库
+* \[**430**星]\[2m] \[C#] [0xd4d/iced](https://github.com/0xd4d/iced) ⭐ 3,554 | 🐛 56 | 🌐 Rust | 📅 2026-08-17 x86/x64 disassembler, instruction decoder & encoder
+* \[**835**星]\[8d] \[GLSL] [khronosgroup/spirv-cross](https://github.com/khronosgroup/spirv-cross) ⭐ 2,490 | 🐛 152 | 🌐 GLSL | 📅 2026-07-31  a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
 * \[**1346**星]\[12m] \[Rust] [das-labor/panopticon](https://github.com/das-labor/panopticon) ⚠️ Archived A libre cross-platform disassembler.
 * \[**627**星]\[3m] \[C] [gdabah/distorm](https://github.com/gdabah/distorm) ⭐ 1,345 | 🐛 15 | 🌐 C | 📅 2023-10-10 Powerful Disassembler Library For x86/AMD64
 * \[**877**星]\[11m] \[C++] [wisk/medusa](https://github.com/wisk/medusa) ⭐ 1,089 | 🐛 27 | 🌐 C++ | 📅 2026-04-10 An open source interactive disassembler
 * \[**246**星]\[5m] \[Py] [bontchev/pcodedmp](https://github.com/bontchev/pcodedmp) ⭐ 490 | 🐛 3 | 🌐 Python | 📅 2021-06-12 A VBA p-code disassembler
-* \[**351**星]\[21d] \[Ruby] [jjyg/metasm](https://github.com/jjyg/metasm) ⭐ 475 | 🐛 2 | 🌐 Ruby | 📅 2026-03-10 This is the main repository for metasm, a free assembler / disassembler / compiler written in ruby
+* \[**351**星]\[21d] \[Ruby] [jjyg/metasm](https://github.com/jjyg/metasm) ⭐ 476 | 🐛 2 | 🌐 Ruby | 📅 2026-03-10 This is the main repository for metasm, a free assembler / disassembler / compiler written in ruby
 * \[**828**星]\[3m] \[C++] [redasmorg/redasm](https://github.com/redasmorg/redasm) The OpenSource Disassembler
 
 ### <a id="a6eb5a22deb33fc1919eaa073aa29ab5"></a>文章
@@ -2214,12 +2214,12 @@
 ### <a id="5f4381b0a90d88dd2296c2936f7e7f70"></a>工具
 
 * \[**6052**星]\[13d] \[Py] [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) ⭐ 12,242 | 🐛 19 | 🌐 Python | 📅 2026-07-17 Modular visual interface for GDB in Python
-* \[**2439**星]\[16d] \[Py] [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 10,788 | 🐛 213 | 🌐 Python | 📅 2026-08-23 GDB插件，辅助漏洞开发和逆向
+* \[**2439**星]\[16d] \[Py] [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 10,789 | 🐛 214 | 🌐 Python | 📅 2026-08-23 GDB插件，辅助漏洞开发和逆向
 * \[**7019**星]\[10d] \[JS] [cs01/gdbgui](https://github.com/cs01/gdbgui) ⭐ 10,351 | 🐛 179 | 🌐 TypeScript | 📅 2025-06-29 Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-* \[**2568**星]\[1m] \[Py] [hugsy/gef](https://github.com/hugsy/gef) ⭐ 8,322 | 🐛 14 | 🌐 Python | 📅 2026-08-20 gdb增强工具，使用Python API，用于漏洞开发和逆向分析。
+* \[**2568**星]\[1m] \[Py] [hugsy/gef](https://github.com/hugsy/gef) ⭐ 8,323 | 🐛 14 | 🌐 Python | 📅 2026-08-20 gdb增强工具，使用Python API，用于漏洞开发和逆向分析。
 * \[**3784**星]\[11m] \[Py] [longld/peda](https://github.com/longld/peda) ⭐ 6,148 | 🐛 76 | 🌐 Python | 📅 2024-07-29 Python Exploit Development Assistance for GDB
 * \[**1417**星]\[3m] \[Go] [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) ⭐ 3,198 | 🐛 4 | 🌐 Go | 📅 2023-10-30 A collection of gdb tips. 100 maybe just mean many here.
-* \[**452**星]\[3m] \[Py] [scwuaptx/pwngdb](https://github.com/scwuaptx/pwngdb) ⭐ 971 | 🐛 14 | 🌐 Python | 📅 2025-08-29 gdb for pwn
+* \[**452**星]\[3m] \[Py] [scwuaptx/pwngdb](https://github.com/scwuaptx/pwngdb) ⭐ 972 | 🐛 14 | 🌐 Python | 📅 2025-08-29 gdb for pwn
 * \[**208**星]\[2m] \[Py] [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) ⭐ 783 | 🐛 5 | 🌐 Lua | 📅 2026-06-15 Neovim thin wrapper for GDB, LLDB and PDB
 * \[**446**星]\[1y] \[Py] [jfoote/exploitable](https://github.com/jfoote/exploitable) ⭐ 747 | 🐛 8 | 🌐 Python | 📅 2022-08-13 The 'exploitable' GDB plugin. I don't work at CERT anymore, but here is the original homepage:
 * \[**244**星]\[2m] \[JS] [bet4it/hyperpwn](https://github.com/bet4it/hyperpwn) ⭐ 639 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-28 A hyper plugin to provide a flexible GDB GUI with the help of GEF, pwndbg or peda
@@ -2253,7 +2253,7 @@
 
 ### <a id="cd76e644d8ddbd385939bb17fceab205"></a>工具
 
-* \[**1419**星]\[9m] \[C] [namhyung/uftrace](https://github.com/namhyung/uftrace) ⭐ 3,459 | 🐛 400 | 🌐 C | 📅 2026-08-09 Function (graph) tracer for user-space
+* \[**1419**星]\[9m] \[C] [namhyung/uftrace](https://github.com/namhyung/uftrace) ⭐ 3,459 | 🐛 401 | 🌐 C | 📅 2026-08-09 Function (graph) tracer for user-space
 
 # <a id="86cb7d8f548ca76534b5828cb5b0abce"></a>Radare2
 
@@ -2263,7 +2263,7 @@
 
 ### <a id="ec3f0b5c2cf36004c4dd3d162b94b91a"></a>Radare2
 
-* \[**11588**星]\[12d] \[C] [radareorg/radare2](https://github.com/radareorg/radare2) ⭐ 24,628 | 🐛 821 | 🌐 C | 📅 2026-08-23 unix-like reverse engineering framework and commandline tools
+* \[**11588**星]\[12d] \[C] [radareorg/radare2](https://github.com/radareorg/radare2) ⭐ 24,632 | 🐛 819 | 🌐 C | 📅 2026-08-24 unix-like reverse engineering framework and commandline tools
 
 ### <a id="6922457cb0d4b6b87a34caf39aa31dfe"></a>新添加的
 
@@ -2333,8 +2333,8 @@
 
 ### <a id="a750ac8156aa0ff337a8639649415ef1"></a>新添加的
 
-* \[**2820**星]\[1m] \[Py] [androguard/androguard](https://github.com/androguard/androguard) ⭐ 6,203 | 🐛 45 | 🌐 Python | 📅 2026-08-13 Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
-* \[**328**星]\[5m] \[Py] [vector35/binaryninja-api](https://github.com/vector35/binaryninja-api) ⭐ 1,294 | 🐛 1,913 | 🌐 C++ | 📅 2026-08-22 Public API, examples, documentation and issues for Binary Ninja
+* \[**2820**星]\[1m] \[Py] [androguard/androguard](https://github.com/androguard/androguard) ⭐ 6,202 | 🐛 45 | 🌐 Python | 📅 2026-08-13 Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
+* \[**328**星]\[5m] \[Py] [vector35/binaryninja-api](https://github.com/vector35/binaryninja-api) ⭐ 1,294 | 🐛 1,915 | 🌐 C++ | 📅 2026-08-24 Public API, examples, documentation and issues for Binary Ninja
 * \[**280**星]\[3m] \[Py] [pbiernat/ripr](https://github.com/pbiernat/ripr) ⭐ 412 | 🐛 7 | 🌐 Python | 📅 2022-07-08 Package Binary Code as a Python class using Binary Ninja and Unicorn Engine
 * \[**201**星]\[14d] \[JS] [ret2got/disasm.pro](https://github.com/ret2got/disasm.pro) ⭐ 298 | 🐛 10 | 🌐 JavaScript | 📅 2025-08-03 A realtime assembler/disassembler (formerly known as disasm.ninja)
 
@@ -2412,9 +2412,9 @@
 
 #### <a id="9753a9d52e19c69dc119bf03e9d7c3d2"></a>工具
 
-* \[**1915**星]\[22d] \[C#] [lucasg/dependencies](https://github.com/lucasg/dependencies) ⭐ 11,768 | 🐛 142 | 🌐 C# | 📅 2024-05-15 A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-* \[**1146**星]\[27d] \[C#] [perfare/il2cppdumper](https://github.com/perfare/il2cppdumper) ⭐ 9,326 | 🐛 156 | 🌐 C# | 📅 2024-08-18 Restore dll from Unity il2cpp binary file (except code)
-* \[**1333**星]\[10m] \[C] [fancycode/memorymodule](https://github.com/fancycode/memorymodule) ⭐ 3,155 | 🐛 58 | 🌐 C | 📅 2024-01-03 Library to load a DLL from memory.
+* \[**1915**星]\[22d] \[C#] [lucasg/dependencies](https://github.com/lucasg/dependencies) ⭐ 11,771 | 🐛 142 | 🌐 C# | 📅 2024-05-15 A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+* \[**1146**星]\[27d] \[C#] [perfare/il2cppdumper](https://github.com/perfare/il2cppdumper) ⭐ 9,329 | 🐛 156 | 🌐 C# | 📅 2024-08-18 Restore dll from Unity il2cpp binary file (except code)
+* \[**1333**星]\[10m] \[C] [fancycode/memorymodule](https://github.com/fancycode/memorymodule) ⭐ 3,156 | 🐛 58 | 🌐 C | 📅 2024-01-03 Library to load a DLL from memory.
 * \[**793**星]\[11m] \[C#] [terminals-origin/terminals](https://github.com/terminals-origin/terminals) ⭐ 1,365 | 🐛 177 | 🌐 C# | 📅 2026-03-22 Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll). The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
 * \[**363**星]\[19d] \[C#] [3f/dllexport](https://github.com/3f/dllexport) ⭐ 1,097 | 🐛 22 | 🌐 C# | 📅 2025-06-08 .NET DllExport
 * \[**230**星]\[1y] \[C#] [misaka-mikoto-tech/monohooker](https://github.com/Misaka-Mikoto-Tech/MonoHooker) ⭐ 1,057 | 🐛 9 | 🌐 C# | 📅 2023-09-22 hook C# method at runtime without modify dll file (such as UnityEditor.dll)
@@ -2580,7 +2580,7 @@
 * \[**654**星]\[10m] \[Roff] [palantir/windows-event-forwarding](https://github.com/palantir/windows-event-forwarding) ⭐ 1,342 | 🐛 21 | 🌐 Roff | 📅 2025-09-08 使用 Windows 事件转发实现网络事件监测和防御
 * \[**446**星]\[9m] \[PS] [nsacyber/event-forwarding-guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) ⭐ 890 | 🐛 8 | 🌐 PowerShell | 📅 2020-11-17 帮助管理员使用Windows事件转发（WEF）收集与安全相关的Windows事件日志
 * \[**282**星]\[3m] \[C#] [fireeye/silketw](https://github.com/fireeye/silketw) ⚠️ Archived flexible C# wrappers for ETW
-* \[**249**星]\[3m] \[C++] [microsoft/krabsetw](https://github.com/microsoft/krabsetw) ⭐ 799 | 🐛 20 | 🌐 C++ | 📅 2026-08-22 KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption functions.
+* \[**249**星]\[3m] \[C++] [microsoft/krabsetw](https://github.com/microsoft/krabsetw) ⭐ 801 | 🐛 20 | 🌐 C++ | 📅 2026-08-22 KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption functions.
 * \[**393**星]\[10m] \[Py] [williballenthin/python-evtx](https://github.com/williballenthin/python-evtx) ⭐ 779 | 🐛 24 | 🌐 Python | 📅 2026-03-19 纯Python编写的Windows事件日志解析器
 * \[**504**星]\[10m] \[C#] [lowleveldesign/wtrace](https://github.com/lowleveldesign/wtrace) ⭐ 695 | 🐛 0 | 🌐 C# | 📅 2025-10-15 Command line tracing tool for Windows, based on ETW.
 * \[**341**星]\[1y] \[C++] [qax-a-team/eventcleaner](https://github.com/QAX-A-Team/EventCleaner) ⭐ 610 | 🐛 8 | 🌐 C++ | 📅 2018-09-07 A tool mainly to erase specified records from Windows event logs, with additional functionalities.
@@ -2652,7 +2652,7 @@
 ### <a id="d90b60dc79837e06d8ba2a7ee1f109d3"></a>.NET
 
 * \[**12676**星]\[14d] \[C#] [0xd4d/dnspy](https://github.com/0xd4d/dnspy) ⚠️ Archived .NET debugger and assembly editor
-* \[**9261**星]\[11d] \[C#] [icsharpcode/ilspy](https://github.com/icsharpcode/ilspy) ⭐ 25,923 | 🐛 190 | 🌐 C# | 📅 2026-08-23 .NET Decompiler
+* \[**9261**星]\[11d] \[C#] [icsharpcode/ilspy](https://github.com/icsharpcode/ilspy) ⭐ 25,930 | 🐛 183 | 🌐 C# | 📅 2026-08-24 .NET Decompiler
 * \[**3694**星]\[27d] \[C#] [0xd4d/de4dot](https://github.com/0xd4d/de4dot) ⚠️ Archived .NET deobfuscator and unpacker.
 * \[**3263**星]\[7m] \[JS] [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) ⭐ 3,950 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-03 Test your internet connection speed and ping using speedtest.net from the CLI
 * \[**1657**星]\[14d] \[C#] [jbevain/cecil](https://github.com/jbevain/cecil) ⭐ 2,994 | 🐛 111 | 🌐 C# | 📅 2025-09-11 C#库, 探查/修改/生成 .NET App/库
@@ -2682,9 +2682,9 @@
 
 ### <a id="c3cda3278305549f4c21df25cbf638a4"></a>内核&&驱动
 
-* \[**781**星]\[19d] [axtmueller/windows-kernel-explorer](https://github.com/axtmueller/windows-kernel-explorer) ⭐ 2,715 | 🐛 0 | 📅 2025-12-14 Windows内核研究工具
-* \[**510**星]\[5m] \[Py] [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,535 | 🐛 42 | 🌐 Go | 📅 2026-08-19 Windows内核探索和跟踪工具
-* \[**479**星]\[1m] \[C] [jkornev/hidden](https://github.com/jkornev/hidden) ⭐ 2,052 | 🐛 13 | 🌐 C | 📅 2022-07-13 Windows驱动，带用户模式接口：隐藏文件系统和注册表对象、保护进程等
+* \[**781**星]\[19d] [axtmueller/windows-kernel-explorer](https://github.com/axtmueller/windows-kernel-explorer) ⭐ 2,717 | 🐛 0 | 📅 2025-12-14 Windows内核研究工具
+* \[**510**星]\[5m] \[Py] [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,536 | 🐛 42 | 🌐 Go | 📅 2026-08-19 Windows内核探索和跟踪工具
+* \[**479**星]\[1m] \[C] [jkornev/hidden](https://github.com/jkornev/hidden) ⭐ 2,051 | 🐛 13 | 🌐 C | 📅 2022-07-13 Windows驱动，带用户模式接口：隐藏文件系统和注册表对象、保护进程等
 * \[**933**星]\[9m] \[C] [microsoft/windows-driver-frameworks](https://github.com/microsoft/windows-driver-frameworks) ⭐ 1,321 | 🐛 8 | 🌐 C | 📅 2024-09-10 Windows驱动框架(WDF)
 * \[**278**星]\[12d] \[PS] [microsoftdocs/windows-driver-docs](https://github.com/MicrosoftDocs/windows-driver-docs) ⭐ 1,060 | 🐛 9 | 🌐 OpenSCAD | 📅 2026-08-21 官方Windows驱动程序工具包文档
 
@@ -2696,21 +2696,21 @@
 ### <a id="d295182c016bd9c2d5479fe0e98a75df"></a>系统调用
 
 * \[**725**星]\[2m] \[HTML] [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) ⭐ 2,629 | 🐛 3 | 🌐 HTML | 📅 2025-12-30 Windows 系统调用表(NT/2000/XP/2003/Vista/2008/7/2012/8/10)
-* \[**328**星]\[2m] \[C] [hfiref0x/syscalltables](https://github.com/hfiref0x/syscalltables) ⭐ 1,456 | 🐛 0 | 🌐 C | 📅 2026-07-04 Windows NT x64系统调用表
+* \[**328**星]\[2m] \[C] [hfiref0x/syscalltables](https://github.com/hfiref0x/syscalltables) ⭐ 1,459 | 🐛 0 | 🌐 C | 📅 2026-07-04 Windows NT x64系统调用表
 
 ### <a id="1afda3039b4ab9a3a1f60b179ccb3e76"></a>其他
 
-* \[**863**星]\[14d] \[C++] [henrypp/simplewall](https://github.com/henrypp/simplewall) ⭐ 8,883 | 🐛 143 | 🌐 C | 📅 2026-08-18 为Windows 过滤平台提供的配置界面
-* \[**949**星]\[3m] \[C] [basil00/divert](https://github.com/basil00/divert) ⭐ 3,263 | 🐛 64 | 🌐 C | 📅 2023-03-15 用户模式数据包拦截库，适用于Win 7/8/10
-* \[**360**星]\[12d] \[C#] [digitalruby/ipban](https://github.com/digitalruby/ipban) ⭐ 2,180 | 🐛 2 | 🌐 C# | 📅 2026-08-21 监视Windows/Linux系统的登录失败和不良行为，并封禁对应的IP地址。高度可配置，精简且功能强大。
+* \[**863**星]\[14d] \[C++] [henrypp/simplewall](https://github.com/henrypp/simplewall) ⭐ 8,885 | 🐛 143 | 🌐 C | 📅 2026-08-18 为Windows 过滤平台提供的配置界面
+* \[**949**星]\[3m] \[C] [basil00/divert](https://github.com/basil00/divert) ⭐ 3,264 | 🐛 64 | 🌐 C | 📅 2023-03-15 用户模式数据包拦截库，适用于Win 7/8/10
+* \[**360**星]\[12d] \[C#] [digitalruby/ipban](https://github.com/digitalruby/ipban) ⭐ 2,178 | 🐛 2 | 🌐 C# | 📅 2026-08-21 监视Windows/Linux系统的登录失败和不良行为，并封禁对应的IP地址。高度可配置，精简且功能强大。
 * \[**387**星]\[19d] \[Jupyter Notebook] [microsoft/windowsdefenderatp-hunting-queries](https://github.com/microsoft/windowsdefenderatp-hunting-queries) ⚠️ Archived 在MS Defender ATP中进行高级查询的示例
-* \[**570**星]\[1m] \[C] [hfiref0x/winobjex64](https://github.com/hfiref0x/winobjex64) ⭐ 1,968 | 🐛 0 | 🌐 C | 📅 2026-08-16 Windows对象浏览器. x64
+* \[**570**星]\[1m] \[C] [hfiref0x/winobjex64](https://github.com/hfiref0x/winobjex64) ⭐ 1,969 | 🐛 0 | 🌐 C | 📅 2026-08-16 Windows对象浏览器. x64
 * \[**726**星]\[2m] \[Py] [diyan/pywinrm](https://github.com/diyan/pywinrm) ⭐ 1,138 | 🐛 54 | 🌐 Python | 📅 2026-08-04 Python实现的WinRM客户端
 * \[**418**星]\[15d] \[C] [samba-team/samba](https://github.com/samba-team/samba) ⭐ 1,122 | 🐛 1 | 🌐 C | 📅 2026-08-20 适用于Linux和Unix的标准Windows interoperability程序套件
 * \[**228**星]\[3m] \[C] [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64) ⭐ 951 | 🐛 90 | 🌐 C | 📅 2026-08-01 在64位版本上执行Windows DOS版的 NTVDM
 * \[**208**星]\[10m] \[C] [hzqst/unicorn\_pe](https://github.com/hzqst/unicorn_pe) ⚠️ Archived 模拟Windows PE文件的代码执行，基于Unicorn
-* \[**210**星]\[3m] [adguardteam/adguardforwindows](https://github.com/adguardteam/adguardforwindows) ⭐ 881 | 🐛 221 | 📅 2026-08-20 Windows系统范围的AdBlocker
-* \[**389**星]\[2m] \[C#] [microsoft/binskim](https://github.com/microsoft/binskim) ⭐ 859 | 🐛 162 | 🌐 C# | 📅 2026-08-20 二进制静态分析工具，可为PE和ELF二进制格式提供安全性和正确性分析
+* \[**210**星]\[3m] [adguardteam/adguardforwindows](https://github.com/adguardteam/adguardforwindows) ⭐ 884 | 🐛 221 | 📅 2026-08-20 Windows系统范围的AdBlocker
+* \[**389**星]\[2m] \[C#] [microsoft/binskim](https://github.com/microsoft/binskim) ⭐ 859 | 🐛 163 | 🌐 C# | 📅 2026-08-20 二进制静态分析工具，可为PE和ELF二进制格式提供安全性和正确性分析
 * \[**238**星]\[5m] \[PS] [microsoft/aaronlocker](https://github.com/microsoft/aaronlocker) ⭐ 705 | 🐛 16 | 🌐 PowerShell | 📅 2022-08-12 Windows应用程序白名单
 * \[**463**星]\[8m] \[C#] [microsoft/dbgshell](https://github.com/microsoft/dbgshell) ⭐ 698 | 🐛 22 | 🌐 C# | 📅 2024-04-03 PowerShell编写的Windows调试器引擎前端
 * \[**269**星]\[12m] \[Py] [hakril/pythonforwindows](https://github.com/hakril/pythonforwindows) ⭐ 633 | 🐛 0 | 🌐 Python | 📅 2026-08-12 简化Python与Windows操作系统交互的库
@@ -2766,8 +2766,8 @@
 
 ### <a id="929786b8490456eedfb975a41ca9da07"></a>工具
 
-* \[**787**星]\[2m] \[C] [nixos/patchelf](https://github.com/nixos/patchelf) ⭐ 4,242 | 🐛 147 | 🌐 C | 📅 2026-07-27 A small utility to modify the dynamic linker and RPATH of ELF executables
-* \[**930**星]\[15d] \[Py] [eliben/pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,272 | 🐛 55 | 🌐 Python | 📅 2026-07-30 Parsing ELF and DWARF in Python
+* \[**787**星]\[2m] \[C] [nixos/patchelf](https://github.com/nixos/patchelf) ⭐ 4,245 | 🐛 147 | 🌐 C | 📅 2026-07-27 A small utility to modify the dynamic linker and RPATH of ELF executables
+* \[**930**星]\[15d] \[Py] [eliben/pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,274 | 🐛 55 | 🌐 Python | 📅 2026-07-30 Parsing ELF and DWARF in Python
 * \[**337**星]\[9m] \[Py] [rek7/fireelf](https://github.com/rek7/fireelf) ⭐ 684 | 🐛 0 | 🌐 Python | 📅 2019-04-17 Fileless Linux Malware Framework
 * \[**411**星]\[9m] \[Assembly] [mewmew/dissection](https://github.com/mewmew/dissection) ⭐ 469 | 🐛 2 | 🌐 Assembly | 📅 2020-12-02 The dissection of a simple "hello world" ELF binary.
 * \[**233**星]\[2m] \[C] [elfmaster/libelfmaster](https://github.com/elfmaster/libelfmaster) ⭐ 455 | 🐛 18 | 🌐 C | 📅 2026-01-26 Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools
@@ -2802,10 +2802,10 @@
 
 ### <a id="203d00ef3396d68f5277c90279f4ebf3"></a>新添加
 
-* \[**1450**星]\[2m] \[C] [feralinteractive/gamemode](https://github.com/feralinteractive/gamemode) ⭐ 5,981 | 🐛 216 | 🌐 C | 📅 2026-06-15 Optimise Linux system performance on demand
-* \[**1413**星]\[21d] \[C++] [google/nsjail](https://github.com/google/nsjail) ⭐ 4,067 | 🐛 69 | 🌐 C++ | 📅 2026-07-27 A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
-* \[**759**星]\[1m] \[Py] [korcankaraokcu/pince](https://github.com/korcankaraokcu/pince) ⭐ 3,067 | 🐛 7 | 🌐 Python | 📅 2026-08-15 A reverse engineering tool that'll supply the place of Cheat Engine for linux
-* \[**731**星]\[17d] \[C] [strace/strace](https://github.com/strace/strace) ⭐ 2,674 | 🐛 108 | 🌐 C | 📅 2026-08-20 strace is a diagnostic, debugging and instructional userspace utility for Linux
+* \[**1450**星]\[2m] \[C] [feralinteractive/gamemode](https://github.com/feralinteractive/gamemode) ⭐ 5,982 | 🐛 216 | 🌐 C | 📅 2026-06-15 Optimise Linux system performance on demand
+* \[**1413**星]\[21d] \[C++] [google/nsjail](https://github.com/google/nsjail) ⭐ 4,071 | 🐛 69 | 🌐 C++ | 📅 2026-07-27 A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+* \[**759**星]\[1m] \[Py] [korcankaraokcu/pince](https://github.com/korcankaraokcu/pince) ⭐ 3,067 | 🐛 6 | 🌐 Python | 📅 2026-08-24 A reverse engineering tool that'll supply the place of Cheat Engine for linux
+* \[**731**星]\[17d] \[C] [strace/strace](https://github.com/strace/strace) ⭐ 2,675 | 🐛 108 | 🌐 C | 📅 2026-08-20 strace is a diagnostic, debugging and instructional userspace utility for Linux
 * \[**895**星]\[29d] \[C] [buserror/simavr](https://github.com/buserror/simavr) ⭐ 1,784 | 🐛 51 | 🌐 C | 📅 2026-08-09 simavr is a lean, mean and hackable AVR simulator for linux & OSX
 * \[**565**星]\[12d] \[C++] [intel/linux-sgx](https://github.com/intel/linux-sgx) ⭐ 1,449 | 🐛 138 | 🌐 C++ | 📅 2026-08-13 Intel SGX for Linux\*
 * \[**741**星]\[2m] \[C] [yrp604/rappel](https://github.com/yrp604/rappel) ⭐ 1,276 | 🐛 2 | 🌐 C | 📅 2024-03-07 A linux-based assembly REPL for x86, amd64, armv7, and armv8

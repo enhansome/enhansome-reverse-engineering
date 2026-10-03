@@ -4055,7 +4055,7 @@
                     "open_issues": 1973,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 80367,
+                    "stars": 80369,
                     "topics": [
                       "disassembler",
                       "reverse-engineering",
@@ -4985,7 +4985,7 @@
                     "open_issues": 0,
                     "owner": "ashishb",
                     "repo": "android-security-awesome",
-                    "stars": 9723,
+                    "stars": 9724,
                     "topics": [
                       "android",
                       "awesome",
@@ -6475,7 +6475,7 @@
                     "open_issues": 497,
                     "owner": "signalapp",
                     "repo": "Signal-Android",
-                    "stars": 29412,
+                    "stars": 29411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:30.453Z"
@@ -6600,7 +6600,7 @@
                     "open_issues": 58,
                     "owner": "ac-pm",
                     "repo": "Inspeckage",
-                    "stars": 2987,
+                    "stars": 2986,
                     "topics": [
                       "android-application",
                       "dynamic-analysis",
@@ -6727,7 +6727,7 @@
                     "open_issues": 28,
                     "owner": "bigsinger",
                     "repo": "AndroidIdChanger",
-                    "stars": 634,
+                    "stars": 635,
                     "topics": [
                       "android",
                       "hook",
@@ -9074,7 +9074,7 @@
                     "open_issues": 19,
                     "owner": "ptoomey3",
                     "repo": "Keychain-Dumper",
-                    "stars": 1426,
+                    "stars": 1425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:30.453Z"
@@ -10508,8 +10508,8 @@
                         "id": 9340574,
                         "language": "C",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-03T00:43:57Z",
-                        "open_issues": 204,
+                        "last_commit": "2026-10-03T05:20:29Z",
+                        "open_issues": 202,
                         "owner": "frida",
                         "repo": "frida-gum",
                         "stars": 1025,
@@ -11034,7 +11034,7 @@
                 "open_issues": 1246,
                 "owner": "AdguardTeam",
                 "repo": "AdGuardHome",
-                "stars": 37186,
+                "stars": 37188,
                 "topics": [
                   "adblock",
                   "adguard",
@@ -11096,8 +11096,8 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T05:00:04Z",
-                "open_issues": 2154,
+                "last_commit": "2026-10-03T05:47:15Z",
+                "open_issues": 2153,
                 "owner": "mlflow",
                 "repo": "mlflow",
                 "stars": 28239,
@@ -11344,7 +11344,7 @@
                 "open_issues": 200,
                 "owner": "xiaolai",
                 "repo": "the-craft-of-selfteaching",
-                "stars": 17415,
+                "stars": 17418,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:16:30.453Z"
@@ -11891,7 +11891,7 @@
                 "open_issues": 51,
                 "owner": "gcla",
                 "repo": "termshark",
-                "stars": 10028,
+                "stars": 10029,
                 "topics": [
                   "go",
                   "golang",
@@ -12226,7 +12226,7 @@
                 "open_issues": 244,
                 "owner": "esnet",
                 "repo": "iperf",
-                "stars": 8794,
+                "stars": 8795,
                 "topics": [
                   "iperf3"
                 ]
@@ -14306,7 +14306,7 @@
                 "open_issues": 158,
                 "owner": "apitrace",
                 "repo": "apitrace",
-                "stars": 2866,
+                "stars": 2867,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -16645,7 +16645,7 @@
                     "open_issues": 455,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50719,
+                    "stars": 50720,
                     "topics": [
                       "android",
                       "decompiler",
@@ -20722,7 +20722,7 @@
                     "open_issues": 42,
                     "owner": "google",
                     "repo": "nsjail",
-                    "stars": 4132,
+                    "stars": 4133,
                     "topics": [
                       "chroot",
                       "linux",
@@ -21160,7 +21160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:00.004Z",
+    "last_updated": "2026-10-03T05:49:32.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)",

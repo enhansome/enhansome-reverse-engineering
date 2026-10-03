@@ -1046,7 +1046,7 @@
 
 ### <a id="2ae406afda6602c8f02d73678b2ff040"></a>Ghidra
 
-* \[**18649**星]\[10d] \[Java] [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra) ⭐ 80,367 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 软件逆向框架
+* \[**18649**星]\[10d] \[Java] [nationalsecurityagency/ghidra](https://github.com/nationalsecurityagency/ghidra) ⭐ 80,369 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 软件逆向框架
 
 ### <a id="ce70b8d45be0a3d29705763564623aca"></a>新添加的
 
@@ -1324,7 +1324,7 @@
 
 * \[**5195**星]\[19d] \[Py] [mobsf/mobile-security-framework-mobsf](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,869 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-30 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 * \[**5084**星]\[15d] \[HTML] [owasp/owasp-mstg](https://github.com/owasp/owasp-mstg) ⭐ 13,216 | 🐛 241 | 🌐 Python | 📅 2026-10-01 关于移动App安全开发、测试和逆向的相近手册
-* \[**4306**星]\[15d] \[Shell] [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,723 | 🐛 0 | 🌐 Makefile | 📅 2026-10-01 A collection of android security related resources
+* \[**4306**星]\[15d] \[Shell] [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,724 | 🐛 0 | 🌐 Makefile | 📅 2026-10-01 A collection of android security related resources
 * \[**2051**星]\[21d] \[Py] [sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,420 | 🐛 58 | 🌐 Python | 📅 2026-09-17 runtimemobile exploration
 * \[**3649**星]\[2m] \[C++] [anbox/anbox](https://github.com/anbox/anbox) ⚠️ Archived 在常规GNU / Linux系统上引导完整的Android系统，基于容器
 * \[**6101**星]\[3m] \[Java] [google/android-classyshark](https://github.com/google/android-classyshark) ⚠️ Archived 分析基于Android/Java的App或游戏
@@ -1396,19 +1396,19 @@
 
 ### <a id="17408290519e1ca7745233afea62c43c"></a>各类App
 
-* \[**12285**星]\[11d] \[Java] [signalapp/signal-android](https://github.com/signalapp/Signal-Android) ⭐ 29,412 | 🐛 497 | 🌐 Kotlin | 📅 2026-10-02 A private messenger for Android.
+* \[**12285**星]\[11d] \[Java] [signalapp/signal-android](https://github.com/signalapp/Signal-Android) ⭐ 29,411 | 🐛 497 | 🌐 Kotlin | 📅 2026-10-02 A private messenger for Android.
 
 ### <a id="7f353b27e45b5de6b0e6ac472b02cbf1"></a>Xposed
 
 * \[**8756**星]\[2m] \[Java] [android-hacker/virtualxposed](https://github.com/android-hacker/virtualxposed) ⭐ 16,065 | 🐛 162 | 🌐 Java | 📅 2024-03-08 A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * \[**2034**星]\[12d] \[Java] [elderdrivers/edxposed](https://github.com/elderdrivers/edxposed) ⭐ 5,664 | 🐛 54 | 🌐 Java | 📅 2022-04-12 Elder driver Xposed Framework.
 * \[**1655**星]\[2m] \[Java] [tiann/epic](https://github.com/tiann/epic) ⭐ 4,553 | 🐛 18 | 🌐 Java | 📅 2023-07-22 Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0\~10.0
-* \[**1726**星]\[1y] \[Java] [ac-pm/inspeckage](https://github.com/ac-pm/inspeckage) ⭐ 2,987 | 🐛 58 | 🌐 Java | 📅 2020-09-22 Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
+* \[**1726**星]\[1y] \[Java] [ac-pm/inspeckage](https://github.com/ac-pm/inspeckage) ⭐ 2,986 | 🐛 58 | 🌐 Java | 📅 2020-09-22 Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 * \[**669**星]\[12d] \[Java] [ganyao114/sandhook](https://github.com/ganyao114/sandhook) ⭐ 2,225 | 🐛 47 | 🌐 Java | 📅 2023-01-19 Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 10.0 32/64 bit - Xposed API Compat
 * \[**1296**星]\[2m] \[Java] [android-hacker/exposed](https://github.com/android-hacker/exposed) ⭐ 1,556 | 🐛 5 | 🌐 Java | 📅 2021-12-01 A library to use Xposed without root or recovery(or modify system image etc..).
 * \[**309**星]\[13d] \[Java] [ganyao114/sandvxposed](https://github.com/ganyao114/sandvxposed) ⭐ 1,056 | 🐛 45 | 🌐 Java | 📅 2021-11-18 Xposed environment without root (OS 5.0 - 10.0)
 * \[**790**星]\[8m] \[Java] [blankeer/mdwechat](https://github.com/blankeer/mdwechat) ⭐ 960 | 🐛 38 | 🌐 Java | 📅 2019-05-04 一个能让微信 Material Design 化的 Xposed 模块
-* \[**309**星]\[1m] [bigsinger/androididchanger](https://github.com/bigsinger/androididchanger) ⭐ 634 | 🐛 28 | 🌐 Java | 📅 2026-08-14 Xposed Module for Changing Android Device Info
+* \[**309**星]\[1m] [bigsinger/androididchanger](https://github.com/bigsinger/androididchanger) ⭐ 635 | 🐛 28 | 🌐 Java | 📅 2026-08-14 Xposed Module for Changing Android Device Info
 * \[**322**星]\[1y] \[C] [smartdone/dexdump](https://github.com/smartdone/dexdump) ⚠️ Archived 一个用来快速脱一代壳的工具（稍微改下就可以脱类抽取那种壳）（Android）
 * \[**204**星]\[1y] \[C] [gtoad/android\_inline\_hook](https://github.com/gtoad/android_inline_hook) ⭐ 344 | 🐛 14 | 🌐 C | 📅 2018-09-30 Build an so file to automatically do the android\_native\_hook work. Supports thumb-2/arm32 and ARM64 ! With this, tools like Xposed can do android native hook.
 * \[**478**星]\[2m] \[Java] [tornaco/x-apm](https://github.com/tornaco/x-apm) ⭐ 29 | 🐛 98 | 🌐 Java | 📅 2019-10-22 应用管理 Xposed
@@ -1646,7 +1646,7 @@
 * \[**866**星]\[16d] \[ObjC] [meitu/mthawkeye](https://github.com/meitu/mthawkeye) ⭐ 1,504 | 🐛 8 | 🌐 Objective-C | 📅 2023-11-17 Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)
 * \[**263**星]\[14d] \[ObjC] [strongbox-password-safe/strongbox](https://github.com/strongbox-password-safe/strongbox) ⭐ 1,466 | 🐛 230 | 🌐 Objective-C | 📅 2026-07-17 A KeePass/Password Safe Client for iOS and OS X
 * \[**346**星]\[4m] \[TS] [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) ⭐ 1,450 | 🐛 185 | 🌐 TypeScript | 📅 2026-02-05 Password generator for BIOS
-* \[**907**星]\[4m] \[ObjC] [ptoomey3/keychain-dumper](https://github.com/ptoomey3/keychain-dumper) ⭐ 1,426 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15 A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
+* \[**907**星]\[4m] \[ObjC] [ptoomey3/keychain-dumper](https://github.com/ptoomey3/keychain-dumper) ⭐ 1,425 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15 A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
 * \[**396**星]\[4m] [ansjdnakjdnajkd/ios](https://github.com/ansjdnakjdnajkd/ios) ⭐ 1,321 | 🐛 0 | 📅 2023-11-06 iOS渗透测试最有用的工具
 * \[**1291**星]\[1m] \[JS] [icymind/vrouter](https://github.com/icymind/vrouter) ⚠️ Archived 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
 * \[**662**星]\[1y] \[Py] [deepzec/bad-pdf](https://github.com/deepzec/bad-pdf) ⭐ 1,159 | 🐛 2 | 🌐 Python | 📅 2025-10-20 create malicious PDF file to steal NTLM(NTLMv1/NTLMv2) Hashes from windows machines
@@ -1802,7 +1802,7 @@
 * \[**559**星]\[1m] \[JS] [nccgroup/house](https://github.com/nccgroup/house) ⭐ 1,467 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 运行时手机 App 分析工具包, 带Web GUI
 * \[**645**星]\[16d] \[Py] [igio90/dwarf](https://github.com/igio90/dwarf) ⭐ 1,321 | 🐛 5 | 🌐 Python | 📅 2024-05-16 Full featured multi arch/os debugger built on top of PyQt5 and frida
 * \[**243**星]\[19d] \[JS] [frenchyeti/dexcalibur](https://github.com/frenchyeti/dexcalibur) ⭐ 1,176 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-02 Dynamic binary instrumentation tool designed for Android application and powered by Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.
-* \[**228**星]\[13d] \[C] [frida/frida-gum](https://github.com/frida/frida-gum) ⭐ 1,025 | 🐛 204 | 🌐 C | 📅 2026-10-03 Low-level code instrumentation library used by frida-core
+* \[**228**星]\[13d] \[C] [frida/frida-gum](https://github.com/frida/frida-gum) ⭐ 1,025 | 🐛 202 | 🌐 C | 📅 2026-10-03 Low-level code instrumentation library used by frida-core
 * \[**420**星]\[13d] \[C] [frida/frida-python](https://github.com/frida/frida-python) ⭐ 872 | 🐛 56 | 🌐 Python | 📅 2026-10-02 Frida Python bindings
 * \[**283**星]\[8m] \[Py] [nightbringer21/fridump](https://github.com/nightbringer21/fridump) ⭐ 861 | 🐛 27 | 🌐 Python | 📅 2024-08-07 A universal memory dumper using Frida
 * \[**321**星]\[1m] \[C] [frida/frida-core](https://github.com/frida/frida-core) ⭐ 777 | 🐛 147 | 🌐 Vala | 📅 2026-10-02 Frida core library intended for static linking into bindings
@@ -1896,9 +1896,9 @@
 ## <a id="1d9dec1320a5d774dc8e0e7604edfcd3"></a>工具-新添加的
 
 * \[**14349**星]\[2m] \[Py] [corentinj/real-time-voice-cloning](https://github.com/corentinj/real-time-voice-cloning) ⭐ 60,163 | 🐛 177 | 🌐 Python | 📅 2026-03-09 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-* \[**2687**星]\[11d] \[Go] [adguardteam/adguardhome](https://github.com/adguardteam/adguardhome) ⭐ 37,186 | 🐛 1,246 | 🌐 TypeScript | 📅 2026-10-02 Network-wide ads & trackers blocking DNS server
+* \[**2687**星]\[11d] \[Go] [adguardteam/adguardhome](https://github.com/adguardteam/adguardhome) ⭐ 37,188 | 🐛 1,246 | 🌐 TypeScript | 📅 2026-10-02 Network-wide ads & trackers blocking DNS server
 * \[**10378**星]\[11d] \[Go] [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,482 | 🐛 924 | 🌐 Go | 📅 2026-10-02 An open source trusted cloud native registry project that stores, signs, and scans content.
-* \[**5420**星]\[12d] \[Py] [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,239 | 🐛 2,154 | 🌐 Python | 📅 2026-10-03 Open source platform for the machine learning lifecycle
+* \[**5420**星]\[12d] \[Py] [mlflow/mlflow](https://github.com/mlflow/mlflow) ⭐ 28,239 | 🐛 2,153 | 🌐 Python | 📅 2026-10-03 Open source platform for the machine learning lifecycle
 * \[**19766**星]\[3m] \[Jupyter Notebook] [camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers](https://github.com/camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers) ⭐ 28,176 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 * \[**11402**星]\[10d] \[Java] [oracle/graal](https://github.com/oracle/graal) ⭐ 21,723 | 🐛 863 | 🌐 Java | 📅 2026-10-02 Run Programs Faster Anywhere
 * \[**7020**星]\[14d] \[Go] [nats-io/nats-server](https://github.com/nats-io/nats-server) ⭐ 20,832 | 🐛 463 | 🌐 Go | 📅 2026-10-02 High-Performance server for NATS, the cloud native messaging system.
@@ -1906,7 +1906,7 @@
 * \[**3608**星]\[9d] \[Pascal] [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) ⭐ 19,253 | 🐛 1,315 | 🌐 Pascal | 📅 2025-04-19 Cheat Engine. A development environment focused on modding
 * \[**4610**星]\[1y] \[C] [upx/upx](https://github.com/upx/upx) ⭐ 17,916 | 🐛 24 | 🌐 C++ | 📅 2026-10-03 UPX - the Ultimate Packer for eXecutables
 * \[**5226**星]\[13d] \[Shell] [denisidoro/navi](https://github.com/denisidoro/navi) ⭐ 17,705 | 🐛 113 | 🌐 Rust | 📅 2026-09-20 An interactive cheatsheet tool for the command-line
-* \[**11213**星]\[2m] \[Jupyter Notebook] [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 17,415 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20 One has no future if one couldn't teach themself.
+* \[**11213**星]\[2m] \[Jupyter Notebook] [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 17,418 | 🐛 200 | 🌐 Jupyter Notebook | 📅 2026-05-20 One has no future if one couldn't teach themself.
 * \[**2815**星]\[20d] \[C] [processhacker/processhacker](https://github.com/processhacker/processhacker) ⭐ 16,147 | 🐛 299 | 🌐 C | 📅 2026-10-02 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 * \[**3295**星]\[15d] \[JS] [koenkk/zigbee2mqtt](https://github.com/koenkk/zigbee2mqtt) ⭐ 15,684 | 🐛 441 | 🌐 TypeScript | 📅 2026-10-02 Zigbee
 * \[**6894**星]\[2m] \[Go] [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,810 | 🐛 62 | 🌐 Go | 📅 2024-02-22 A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -1925,7 +1925,7 @@
 * \[**2627**星]\[23d] \[JS] [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) ⭐ 10,690 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-04 Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
 * \[**5751**星]\[9m] \[C] [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,507 | 🐛 26 | 🌐 C | 📅 2024-05-29 C编译器，编译的二进制文件只有1个代码块。
 * \[**2718**星]\[3m] \[Py] [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) ⭐ 10,082 | 🐛 35 | 🌐 Python | 📅 2026-08-07 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-* \[**4857**星]\[13d] \[Go] [gcla/termshark](https://github.com/gcla/termshark) ⭐ 10,028 | 🐛 51 | 🌐 Go | 📅 2024-04-30 A terminal UI for tshark, inspired by Wireshark
+* \[**4857**星]\[13d] \[Go] [gcla/termshark](https://github.com/gcla/termshark) ⭐ 10,029 | 🐛 51 | 🌐 Go | 📅 2024-04-30 A terminal UI for tshark, inspired by Wireshark
 * \[**3289**星]\[15d] \[C] [virustotal/yara](https://github.com/virustotal/yara) ⭐ 9,907 | 🐛 167 | 🌐 C | 📅 2026-09-23 The pattern matching swiss knife
 * \[**5876**星]\[3m] \[Gnuplot] [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,677 | 🐛 16 | 🌐 HTML | 📅 2026-09-03 A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 * \[**5717**星]\[28d] \[JS] [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) ⭐ 9,468 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-01 Swagger Editor
@@ -1936,7 +1936,7 @@
 * \[**3939**星]\[15d] \[C] [aquynh/capstone](https://github.com/aquynh/capstone) ⭐ 9,046 | 🐛 360 | 🌐 C | 📅 2026-09-30 Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86\_64, XCore) + bindings.
 * \[**3844**星]\[2m] \[ObjC] [sveinbjornt/sloth](https://github.com/sveinbjornt/sloth) ⭐ 8,965 | 🐛 2 | 🌐 Objective-C | 📅 2026-08-30 Mac app that shows all open files, directories and sockets in use by all running processes. Nice GUI for lsof.
 * \[**3451**星]\[19d] \[C] [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 8,879 | 🐛 14 | 🌐 C | 📅 2026-09-27 AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
-* \[**2587**星]\[10d] \[C] [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,794 | 🐛 244 | 🌐 C | 📅 2026-10-02 A TCP, UDP, and SCTP network bandwidth measurement tool
+* \[**2587**星]\[10d] \[C] [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,795 | 🐛 244 | 🌐 C | 📅 2026-10-02 A TCP, UDP, and SCTP network bandwidth measurement tool
 * \[**4651**星]\[13d] [powershell/win32-openssh](https://github.com/powershell/win32-openssh) ⭐ 8,297 | 🐛 409 | 📅 2026-09-23 Win32 port of OpenSSH
 * \[**4541**星]\[4m] \[TS] [apis-guru/graphql-voyager](https://github.com/apis-guru/graphql-voyager) ⭐ 8,170 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12
 * \[**3306**星]\[19d] \[C] [microsoft/windows-driver-samples](https://github.com/microsoft/windows-driver-samples) ⭐ 7,868 | 🐛 129 | 🌐 C | 📅 2026-09-25 This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
@@ -2015,7 +2015,7 @@
 * \[**1949**星]\[17d] \[C] [microsoft/procdump-for-linux](https://github.com/microsoft/procdump-for-linux) ⭐ 3,085 | 🐛 22 | 🌐 C | 📅 2026-09-14 Linux 版本的 ProcDump
 * \[**2808**星]\[10m] \[Py] [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma) ⭐ 3,068 | 🐛 15 | 🌐 Python | 📅 2021-08-31 Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * \[**2260**星]\[13d] [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,022 | 🐛 63 | 🌐 Nunjucks | 📅 2026-10-02 Shaming sites with dumb password rules.
-* \[**1786**星]\[1m] \[C++] [apitrace/apitrace](https://github.com/apitrace/apitrace) ⭐ 2,866 | 🐛 158 | 🌐 C++ | 📅 2026-10-02 Tools for tracing OpenGL, Direct3D, and other graphics APIs
+* \[**1786**星]\[1m] \[C++] [apitrace/apitrace](https://github.com/apitrace/apitrace) ⭐ 2,867 | 🐛 158 | 🌐 C++ | 📅 2026-10-02 Tools for tracing OpenGL, Direct3D, and other graphics APIs
 * \[**1756**星]\[16d] \[PHP] [wordpress/wordpress-coding-standards](https://github.com/wordpress/wordpress-coding-standards) ⭐ 2,834 | 🐛 261 | 🌐 PHP | 📅 2026-10-01 PHP\_CodeSniffer rules (sniffs) to enforce WordPress coding conventions
 * \[**2619**星]\[2m] \[Swift] [zhuhaow/nekit](https://github.com/zhuhaow/nekit) ⚠️ Archived A toolkit for Network Extension Framework
 * \[**2053**星]\[4m] \[Go] [maxmcd/webtty](https://github.com/maxmcd/webtty) ⭐ 2,814 | 🐛 18 | 🌐 Go | 📅 2024-12-11 Share a terminal session over WebRTC
@@ -2166,7 +2166,7 @@
 
 ### <a id="e67c18b4b682ceb6716388522f9a1417"></a>工具
 
-* \[**20779**星]\[8d] \[Java] [skylot/jadx](https://github.com/skylot/jadx) ⭐ 50,719 | 🐛 455 | 🌐 Java | 📅 2026-10-01 dex 转 java 的反编译器
+* \[**20779**星]\[8d] \[Java] [skylot/jadx](https://github.com/skylot/jadx) ⭐ 50,720 | 🐛 455 | 🌐 Java | 📅 2026-10-01 dex 转 java 的反编译器
 * \[**7733**星]\[1m] \[Java] [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) ⭐ 15,200 | 🐛 248 | 🌐 Java | 📅 2024-07-08 A standalone Java Decompiler GUI
 * \[**1867**星]\[1y] \[Java] [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) ⭐ 5,901 | 🐛 2 | 🌐 Java | 📅 2026-10-02 JPEXS Free Flash Decompiler
 * \[**3135**星]\[26d] \[Java] [deathmarine/luyten](https://github.com/deathmarine/luyten) ⭐ 5,114 | 🐛 193 | 🌐 Java | 📅 2024-07-11 An Open Source Java Decompiler Gui for Procyon
@@ -2803,7 +2803,7 @@
 ### <a id="203d00ef3396d68f5277c90279f4ebf3"></a>新添加
 
 * \[**1450**星]\[2m] \[C] [feralinteractive/gamemode](https://github.com/feralinteractive/gamemode) ⭐ 6,028 | 🐛 219 | 🌐 C | 📅 2026-06-15 Optimise Linux system performance on demand
-* \[**1413**星]\[21d] \[C++] [google/nsjail](https://github.com/google/nsjail) ⭐ 4,132 | 🐛 42 | 🌐 C++ | 📅 2026-10-02 A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+* \[**1413**星]\[21d] \[C++] [google/nsjail](https://github.com/google/nsjail) ⭐ 4,133 | 🐛 42 | 🌐 C++ | 📅 2026-10-02 A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 * \[**759**星]\[1m] \[Py] [korcankaraokcu/pince](https://github.com/korcankaraokcu/pince) ⭐ 3,113 | 🐛 6 | 🌐 Python | 📅 2026-09-18 A reverse engineering tool that'll supply the place of Cheat Engine for linux
 * \[**731**星]\[17d] \[C] [strace/strace](https://github.com/strace/strace) ⭐ 2,710 | 🐛 111 | 🌐 C | 📅 2026-10-01 strace is a diagnostic, debugging and instructional userspace utility for Linux
 * \[**895**星]\[29d] \[C] [buserror/simavr](https://github.com/buserror/simavr) ⭐ 1,787 | 🐛 43 | 🌐 C | 📅 2026-09-26 simavr is a lean, mean and hackable AVR simulator for linux & OSX
